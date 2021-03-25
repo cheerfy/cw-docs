@@ -1,90 +1,101 @@
 ---
 description: >-
-  Your restaurant services represent the various order types you accept. View
-  our video for an in-depth explanation of all the settings available.
+  Los servicios de tu restaurante representan los distintos tipos de pedidos que
+  aceptas.
 ---
 
 # Configura los servicios
 
-There are 4 services currently available. They are:
+Hay 4 tipos de servicios disponibles:
 
-* Pickup - orders that are picked up in store by customers to take away
-* Delivery - orders that are delivered to the customer's address
-* Dine-in - orders that are placed by customers currently seated in your store
-* Table booking - a reservation made for a later date and time
+* Pickup - pedidos de Take Away o para recoger en tienda
+* Delivery - pedidos a domicilio
+* Dine-in - pedidos producidos en el restaurante
+* Table booking - reserva de una mesa a una fecha y hora
 
-## How To Configure Your Services
+## Cómo configurar los servicios
 
-1. Visit your restaurant dashboard and go to the settings page
-2. Select the "Services" tab and edit your settings as required
+1. Visita el Dashboard de tu restaurante y ve a "Settings"
+2. Selecciona la pestaña "Services" y edita su configuración según sea necesario
 
-## Enabling & Disabling Services
+## Activa o desactiva un servicio
 
-You can enable or disable services as needed. Go to the desired service settings and simply toggle the "Enabled" switch to enable or disable it.
+Puedes habilitar o deshabilitar servicios según sea necesario. Ve a la configuración de servicio deseada y simplemente cambie el interruptor "Enabled" para habilitarlo o deshabilitarlo.
 
 {% hint style="info" %}
-You must have at least one service enabled
+Para que la tienda funcione tienes que tener al menos un servicio activado
 {% endhint %}
 
-## Service Notes
+## Apuntes del servicio
 
-You can add custom notes for each service that will be shown to the customer when selected. Useful if you need to convey an important message to your customer
+Puedes agregar notas personalizadas en "Pickup notes" para cada servicio que se mostrarán al cliente cuando se seleccione. Útil si necesitas transmitir un mensaje importante a tu cliente.
 
-## Order Timings
+## Tiempos de pedido
 
-A customer is only able to place an order due immediately if your store is opened. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has it's own separate order timing settings that allow your more in-depth control.
+Un cliente solo puede realizar un pedido con vencimiento inmediato si su tienda está abierta. Los pedidos para una fecha posterior deben programarse dentro de su horario de apertura. Como tal, los horarios de los pedidos están controlados principalmente por el horario de apertura de su tienda. A partir de ahí, cada servicio tiene su propia configuración de tiempo de pedido por separado que le permite un control más profundo.
 
-### Enabling & Disabling Order Times
+### Activar y desactivar los tiempos de pedido
 
-Under the "Order Timings" tab in the service settings, you can enable and disable both immediate and scheduled orders.
+En la pestaña "Order Timings" en la configuración del servicio, puedes habilitar y deshabilitar tanto los pedidos inmediatos \("Enable Immediate Orders"\) como los programados \("Enable Later Orders"\).
 
 ### First Order Offset
 
-This is the period of time from when your store first opens to when you will accept the first order. For example, if the first order offset is set to 30 minutes and your store opens at 9:00am, the first order can be placed or scheduled at 9:30am.
+Este es el período de tiempo desde que su tienda abre hasta que acepta el primer pedido. Por ejemplo, si aquí añades 30 minutos y tu tienda abre a las 9:00am, el primer pedido se podrá realizar o programar a las 9:30am.
 
 ### Last Order Offset
 
-This is the period of time from when your store closes to when the last order will be accepted. For example, if the last order offset is set to 30 minutes and your store closes at 9:00pm, the last order can be placed or scheduled at 8:30pm.
+Este es el período de tiempo desde que tu tienda cierra hasta que se acepta el último pedido. Por ejemplo, si aqué añades 30 minutos y tu tienda cierra a las 9:00pm, el último pedido se podrá realizar o programar a las 8:30pm.
 
 ### Order Offset
 
-The normal order offset only applies for scheduled orders at a later time. This is the period from now when a scheduled order can be made. For example, it's there to prevent customers from scheduling order in the next 10 minutes instead of just asking for it to be due ASAP.
+Esto solo afecta a los pedidos programados. Este es el tiempo a partir de ahora en el que se puede realizar un pedido programado. Es para evitar que los clientes programen un pedido en los próximos 10 minutos en lugar de que lo pida para ahora.
 
 So for example, if your order offset is 30 minutes and the current time is 6:00pm, the next time a customer can schedule an order would be 7:00pm. If they want it before 7:00pm, they can still just order for ASAP instead. If the order offset was 15 minutes, then the customer can order for 6:30pm.
 
+Por ejemplo, si añades aquí 30 minutos y la hora actual son las 6:00pm, la próxima vez que un cliente puede programar un pedido sería a las 7:00pm. Si lo quieren antes de las 7:00pm, lo pedirán para ahora. Si añadieses 15 minutos, el cliente podría programar un pedido para las 6:30 pm.
+
 The order offset also acts as a cut-off point to give you time to meet the order schedule. For example, if it's 6:00pm and your order offset is 30 minutes. If the customer is scheduling an order for 7:00pm, they must place the order before 6:30pm. This is to give you 30 minutes to meet the scheduled time.
 
-If they take too long and the time passes 6:30pm, they will receive a notification to tell them that the order has been changed to due ASAP instead of their scheduled time, 7:00pm.
+Este campo también sirve como punto de corte para dar tiempo a cumplir con la hora programada de los pedidos. Por ejemplo, si son las 6:00pm, has añadido 30 minutos, y el cliente está programando un pedido para las 7:00 pm, debe realizar el pedido antes de las 6:30 pm. Esto es para que tengas tiempo a cumplir con la hora programada.
 
-## Custom Service Hours
+## Personaliza las horas de cada servicio
 
-Each service can have its own independent operating hours. Setting custom operating hours for a particular service will override the operating hours set for your store location.
+Cada servicio puede tener su propio horario de funcionamiento independiente. Establecer horas de funcionamiento personalizadas para un servicio en particular anulará las horas de funcionamiento generales establecidas para tu restaurante.
 
 ## Estimated Wait Times & Auto Statuses
 
 To help you better manage your orders and customer expectations, we provide a streamlined way to calculate order wait times and automatically update statuses. There are 6 order statuses:
 
+Para ayudarte a administrar mejor los pedidos y las expectativas de los clientes, proporcionamos una forma simplificada de calcular los tiempos de espera actualizndo los estados automáticamente. Hay 6 estados de pedido:
+
 * Un-confirmed
 * Confirmed
 * Ready
-* On Route \(delivery only\)
+* On Route \(Solo para Delivery\)
 * Complete
 * Cancelled
 
 Both estimated wait times and automated status updates are connected to the same timing settings. This is so that your status updates and wait times are in sync with each other. This avoids any customer confusion. These timing settings are:
 
-| Setting \(minutes\) | From Status | To Status |
+Tanto los tiempos de espera estimados como las actualizaciones de estado automatizadas están sincronizados. Esto evita cualquier confusión del cliente. Estos ajustes de tiempo son:
+
+| Setting \(minutes\) | Del Estado | Al Estado |
 | :--- | :--- | :--- |
 | Time till confirm | Unconfirmed | Confirmed |
 | Time till ready | Confirmed | Ready |
-| Time till on route \(delivery only\) | Ready | On Route |
+| Time till on route \(solo para Delivery\) | Ready | On Route |
 | Time till complete | Ready | Complete |
 
 {% hint style="info" %}
-* Time till confirm is the time between when an order is placed to when it's confirmed. Setting time till confirm to "0" will result in instant order confirmation. You will need to also enable auto status for the confirmed status.
-* Time till ready is the time it takes you to prepare an order after it's confirmed
-* The time till on route status is effectively the time between when an order is prepared to when it is taken by the delivery driver.
-* Time till complete is useful for automatically marking orders as complete
+* Time till confirm es el tiempo que transcurre desde que se realiza un pedido hasta que se confirma. Establecer el tiempo hasta la confirmación en "0" dará como resultado la confirmación instantánea del pedido. 
+* Time till ready es el tiempo que le lleva preparar un pedido una vez confirmado.
+* Time till on route es el tiempo entre el momento en que se prepara un pedido y el momento en que el conductor de entrega lo recoge.
+* Time till complete es útil para marcar automáticamente los pedidos como completos.
+{% endhint %}
+
+{% hint style="info" %}
+* Para que esto funcione de forma automática, debes activar que los servicios se actualicen automáticamente en "Enable Automated Order Statuses".
+* Configura solo los parámetros que necesites.
 {% endhint %}
 
 ### Estimated Wait Times
