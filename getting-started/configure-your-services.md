@@ -4,9 +4,7 @@ description: >-
   our video for an in-depth explanation of all the settings available.
 ---
 
-# Configure Your Services
-
-{% embed url="https://youtu.be/EUW9nZVAE68" caption="Services video tutorial" %}
+# Configura los servicios
 
 There are 4 services currently available. They are:
 

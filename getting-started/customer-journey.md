@@ -2,7 +2,7 @@
 description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda online.
 ---
 
-# Customer Journey
+# Experiencia de Cliente
 
 1. Añadir un botón "HACER PEDIDO", visible y destacado en tu Home Page para incrustar nuestra Landing Page, que te facilitaremos.
 
