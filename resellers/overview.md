@@ -57,7 +57,7 @@ Please note, Gmail, Hotmail and other e-mail hosting providers will not work for
 
 ### Billing System \(Optional\)
 
-You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing.  Please note that extra fees and charges apply.
+You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing. Please note that extra fees and charges apply.
 
 ## Setup Process
 

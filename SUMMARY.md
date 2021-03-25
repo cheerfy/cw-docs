@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Getting Started](getting-started/README.md)
+* [Getting Started!](getting-started/README.md)
+  * [Pasarela de Pagos](getting-started/pasarela-de-pagos.md)
+  * [Empresa de Couriers](getting-started/empresa-de-couriers.md)
+  * [Customer Journey](getting-started/customer-journey.md)
   * [Hardware Requirements](getting-started/hardware-requirements-1.md)
   * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)

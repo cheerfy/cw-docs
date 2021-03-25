@@ -68,7 +68,7 @@ In order to configure and use Apple Pay with CloudWaitress, you need to prepare 
 4. Under the **Apple Pay Merchant Identity Certificate** section, click **Create Certificate**.
 5. Upload the`.csr` file you created from the above command. It should be called `uploadMe.csr` if you just copy the command above.
 6. Click Continue then click Download to get your `.cer` file. The file name should probably be called `merchant_id.cer`.
-7. Convert the `.cer` file into a `.pem` file using the following command: 
+7. Convert the `.cer` file into a `.pem` file using the following command:
 
    ```text
    openssl x509 -inform der -in merchant_id.cer -out certificate.pem

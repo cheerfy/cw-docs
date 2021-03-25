@@ -38,7 +38,7 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
@@ -66,12 +66,10 @@ Organized from lowest to highest price.
 ### Other Printers
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+We do NOT recommend Star printers for use with Android. If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
 {% endhint %}
 
 * Star Micronics TSP143 - Available as Bluetooth or USB or WIFI. 
-
-
 
 ## Ideal Setup
 

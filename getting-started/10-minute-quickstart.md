@@ -10,7 +10,7 @@ description: >-
 
 ## Quick-start Steps
 
-1. Visit https://www.cloudwaitress.com and sign up for an account
+1. Visit [https://www.cloudwaitress.com](https://www.cloudwaitress.com) and sign up for an account
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard

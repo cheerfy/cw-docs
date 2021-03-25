@@ -1,8 +1,12 @@
 ---
-description: >-
-  This section will take you through the process of creating your account,
-  setting up your restaurant, customizing your settings and managing orders.
+description: Pincha en cada una de las acciones para más información.
 ---
 
-# Getting Started
+# Getting Started!
+
+{% page-ref page="pasarela-de-pagos.md" %}
+
+{% page-ref page="empresa-de-couriers.md" %}
+
+
 

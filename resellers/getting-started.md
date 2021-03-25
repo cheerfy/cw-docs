@@ -47,5 +47,3 @@ When we set up your reseller platform, we would have either enabled or disabled 
 You can use your reseller password in the e-mail confirmation code field to bypass the verification process
 {% endhint %}
 
-
-

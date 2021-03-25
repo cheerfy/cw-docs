@@ -6,7 +6,7 @@ description: >-
 
 # Setup Custom Checkout Fields
 
-{% embed url="https://youtu.be/qe9rAjuTE3w" %}
+{% embed url="https://youtu.be/qe9rAjuTE3w" caption="" %}
 
 * Go to settings &gt; Services
 * Choose the service that you would like to add a custom checkout field to.
