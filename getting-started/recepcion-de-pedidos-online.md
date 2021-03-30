@@ -36,11 +36,11 @@ Encuentra aquí la lista de softwares con los que estamos integrados:
 
 #### Revel
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 #### Last
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 #### Revo
 
@@ -48,11 +48,11 @@ Encuentra aquí la lista de softwares con los que estamos integrados:
 
 #### Sinqro
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 #### Tierra
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 #### Next 
 
