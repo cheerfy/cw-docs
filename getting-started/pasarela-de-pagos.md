@@ -22,7 +22,7 @@ Opción recomendada por su facilidad y rápidez de configuración.
 * Cheerfy Shop: añade tus claves en _"Settings"_ -&gt; _"Payments"_ -&gt; _"Add Payment Method"_ -&gt; _“Stripe” ._
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="danger" %}
 Si tienes dudas puedes encontrar un guía detallada [aquí](https://docs.google.com/document/d/1m_jmUr6wBFyxWfKfb2LV--tYXyZ5PgRTEOzwYhr9eVg/edit).
@@ -36,7 +36,7 @@ Si tienes dudas puedes encontrar un guía detallada [aquí](https://docs.google.
 4. Pincha en "Enabled" para activar.
 5. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago con Tarjeta".
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="info" %}
 Cheerfy Shop: añade tus claves en _"Settings"_ -&gt; _"Payments"_ -&gt; _"Add Payment Method"_  -&gt; _“Checkout” ._
@@ -58,7 +58,7 @@ Opción recomendada por su facilidad y rápidez de configuración.
 * Cheerfy Shop: añade tus claves en _"Settings"_ -&gt; _"Payments"_ -&gt; _“Stripe” ._
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="danger" %}
 Si tienes dudas puedes encontrar un guía detallada [aquí](https://docs.google.com/document/d/1m_jmUr6wBFyxWfKfb2LV--tYXyZ5PgRTEOzwYhr9eVg/edit).

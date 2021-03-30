@@ -21,44 +21,48 @@ Encuentra aquí la lista de softwares con los que estamos integrados:
 5. Revo
 6. Sinqro
 7. Tierra
-8. Agora
-9. Nextt
+8. Nextt
+9. Agora
 
 ### Parámetros necesarios para la integración de cada POS
 
-#### Deliverect
+{% tabs %}
+{% tab title="Deliverect" %}
+![](../.gitbook/assets/image%20%2811%29.png)
+{% endtab %}
 
+{% tab title="Ordatic" %}
+![](../.gitbook/assets/image%20%2812%29.png)
+{% endtab %}
+
+{% tab title="Revel" %}
+![](../.gitbook/assets/image%20%2817%29.png)
+{% endtab %}
+
+{% tab title="Last" %}
+![](../.gitbook/assets/image%20%2820%29.png)
+{% endtab %}
+
+{% tab title="Revo" %}
+![](../.gitbook/assets/image%20%2813%29.png)
+{% endtab %}
+
+{% tab title="Sinqro" %}
+![](../.gitbook/assets/image%20%2818%29.png)
+{% endtab %}
+
+{% tab title="Tierra" %}
+![](../.gitbook/assets/image%20%2821%29.png)
+{% endtab %}
+
+{% tab title="Nextt" %}
+![](../.gitbook/assets/image%20%2814%29.png)
+{% endtab %}
+
+{% tab title="Agora" %}
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-#### Ordatic
-
-![](../.gitbook/assets/image%20%2811%29.png)
-
-#### Revel
-
-![](../.gitbook/assets/image%20%2814%29.png)
-
-#### Last
-
-![](../.gitbook/assets/image%20%2817%29.png)
-
-#### Revo
-
-![](../.gitbook/assets/image%20%2812%29.png)
-
-#### Sinqro
-
-![](../.gitbook/assets/image%20%2815%29.png)
-
-#### Tierra
-
-![](../.gitbook/assets/image%20%2818%29.png)
-
-#### Next 
-
-
-
-#### Agora
-
-
+![](../.gitbook/assets/image%20%2816%29.png)
+{% endtab %}
+{% endtabs %}
 
