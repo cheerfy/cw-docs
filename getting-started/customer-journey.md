@@ -4,7 +4,9 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 # Experiencia de Cliente
 
-1. Añadir un botón "HACER PEDIDO", visible y destacado en tu Home Page para incrustar nuestra Landing Page, que te facilitaremos.
+## Añade botón de "Hacer Pedido" en tu web.
+
+Destácalo facilitando la visibilidad y accesso por parte de tus clientes
 
 > Ejemplo en formato Desktop
 
@@ -20,11 +22,11 @@ El cliente, al dar al botón de "Hacer Pedido", será redirigido a nuestra Landi
 La Landing Page redirige al cliente de forma inteligente a cada tienda en función de la cercanía, de si están abiertas o cerradas, y de la disponibilidad de la empresa de couriers.
 {% endhint %}
 
-> Ejemplo en formato Desktop
+> Ejemplo en formato Desktop de Landing Page
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-> Ejemplo e formato Mobile
+> Ejemplo e formato Mobile de Landing Page
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
