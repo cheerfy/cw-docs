@@ -8,6 +8,7 @@
   * [Recepción de pedidos online](getting-started/recepcion-de-pedidos-online.md)
   * [Configura tu Menú](getting-started/setup-your-menus.md)
   * [Configura los servicios](getting-started/configure-your-services.md)
+  * [Ajustes Generales](getting-started/ajustes-generales.md)
   * [Hardware Requirements](getting-started/hardware-requirements-1.md)
   * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Customize Your Design](getting-started/customize-your-design.md)

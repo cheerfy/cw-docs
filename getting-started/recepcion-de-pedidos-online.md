@@ -66,3 +66,19 @@ Encuentra aquí la lista de softwares con los que estamos integrados:
 {% endtab %}
 {% endtabs %}
 
+## Conectarnos a vuestras impresoras
+
+{% hint style="success" %}
+Recomendamos esta opción en caso de no poder proceder con la integración anterior.
+{% endhint %}
+
+Encuentra una guía detallada de cómo proceder [aquí](https://docs.google.com/document/d/1KO3b_QuDWfVwGuqEN8_CJaIBRQZdJX8kT20g0zEO8r8/edit).
+
+## Utiliza nuestro Dashboard de Gestión de Pedidos
+
+Nuestro Dashboard de Gestión de Pedidos siempre está disponible independientemente de haber realizado alguna de las opciones anteriores.
+
+{% hint style="info" %}
+En caso de no poder completar ninguna de las opciones anteriores, este Dashboard será la única forma en la que gestiones tus pedidos.
+{% endhint %}
+

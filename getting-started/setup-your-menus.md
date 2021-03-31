@@ -122,7 +122,7 @@ Las etiquetas te permiten resaltar atributos muy particulares sobre un plato con
 * Vegano
 * Sin Gluten
 
-## Posibles Problemas
+## Posibles problemas al crear tu Menú
 
 ### **No se muestran los menús ni las categorías**
 
