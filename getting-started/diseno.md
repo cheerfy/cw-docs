@@ -18,3 +18,15 @@ Elije tus colores corporativos, tipo de letra, imágenes y demás aspectos perso
 
 ## Ejemplos
 
+> Formato Desktop
+
+![Demo de una Cheerfy Shop](../.gitbook/assets/image%20%2822%29.png)
+
+![Ejemplo real de Grosso Napoletano](../.gitbook/assets/image%20%2823%29.png)
+
+> Formato móvil
+
+![Demo de una Cheerfy Shop](../.gitbook/assets/whatsapp-image-2021-04-09-at-16.37.21-1-.jpeg)
+
+![Ejemplo real de Grosso Napoletano](../.gitbook/assets/whatsapp-image-2021-04-09-at-16.37.21.jpeg)
+
