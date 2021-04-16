@@ -82,7 +82,13 @@ Recomendamos esta opción en caso de no poder proceder con la integración anter
 **Proceso de configuración:**
 
 1. Abre Cheerfy Shop.
-2. Ve a “Settings”-”System”-&gt;”Receipt Printing”, configurar los siguientes parámetros:
+2. Ve a "Settings" - "System" - "Receipt Printing", y configurar los siguientes parámetros:
+3. En el apartado "General", configura:
+   1. Name = Nombrar impresora
+   2. Auto Print Orders = ON
+   3. Receipt Language & Locale = Spanish o English
+
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ## Utiliza nuestro Dashboard de Gestión de Pedidos
 

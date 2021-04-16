@@ -21,9 +21,9 @@ Opción recomendada por su facilidad y rapidez de configuración.
 5. Pincha en "Enabled" para activar.
 6. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago con Tarjeta".
 
-> Aquí puedes encontrar dónde añadir tus claves de API:
+> Aquí puedes encontrar dónde añadir tus claves de API
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 {% endtab %}
 
 {% tab title="Checkout" %}
@@ -38,7 +38,7 @@ Opción recomendada por su facilidad y rapidez de configuración.
 
 > Aquí puedes encontrar dónde añadir tus Claves de API:
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 {% endtab %}
 {% endtabs %}
 
