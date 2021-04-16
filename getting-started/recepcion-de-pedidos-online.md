@@ -12,7 +12,7 @@ description: >-
 Opción recomendada siempre que sea posible
 {% endhint %}
 
-Encuentra aquí la lista de softwares con los que estamos integrados:
+**Encuentra aquí la lista de softwares con los que estamos integrados:**
 
 1. Deliverect
 2. Ordatic
@@ -72,7 +72,17 @@ Encuentra aquí la lista de softwares con los que estamos integrados:
 Recomendamos esta opción en caso de no poder proceder con la integración anterior.
 {% endhint %}
 
-Encuentra una guía detallada de cómo proceder [aquí](https://docs.google.com/document/d/1KO3b_QuDWfVwGuqEN8_CJaIBRQZdJX8kT20g0zEO8r8/edit).
+**Requisitos de configuración:**
+
+* Impresoras conectadas por red, usb o cable serie**.**
+* Equipo Android o Windows.
+* Este equipo tiene que estar conectado a la red o conectado por cable a la impresora. 
+* El equipo tiene que estar siempre activo porque va a hacer de servidor de impresión.
+
+**Proceso de configuración:**
+
+1. Abre Cheerfy Shop.
+2. Ve a “Settings”-”System”-&gt;”Receipt Printing”, configurar los siguientes parámetros:
 
 ## Utiliza nuestro Dashboard de Gestión de Pedidos
 
