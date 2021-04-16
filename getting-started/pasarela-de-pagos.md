@@ -38,7 +38,7 @@ Opción recomendada por su facilidad y rapidez de configuración.
 
 > Aquí puedes encontrar dónde añadir tus Claves de API:
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 {% endtab %}
 {% endtabs %}
 

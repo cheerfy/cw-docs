@@ -16,11 +16,11 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 > Web: Ejemplo en formato Desktop.
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 > Web: Ejemplo en formato Mobile.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 > Landing Page: Ejemplo en formato Desktop.
 
