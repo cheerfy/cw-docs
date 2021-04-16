@@ -6,27 +6,27 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 ## Añade botón de "Hacer Pedido" en tu web.
 
-Destácalo facilitando la visibilidad y accesso por parte de tus clientes
+**Destácalo facilitando la visibilidad y accesso por parte de tus clientes**
 
-> Ejemplo en formato Desktop
+1. El cliente accede a vuestra Web.
+2. El cliente pulsa el botón de "hacer pedido".
+3. El cliente es redirigido a nuestra Landing Page, que estará incrustada en vuestra Web.
+4. El cliente elige entre las opciones de "A domicilio" o "A recoger".
+5. La Landing Page le redirigirá de forma inteligente a cada tienda en función de la cercanía, de si están abiertas o cerradas, y de la disponibilidad de la empresa de couriers.
 
-![](../.gitbook/assets/image.png)
+> Web: Ejemplo en formato Desktop.
 
-> Ejemplo en formato Mobile
+![](../.gitbook/assets/image%20%2828%29.png)
 
-![](../.gitbook/assets/image%20%288%29.png)
+> Web: Ejemplo en formato Mobile.
 
-{% hint style="info" %}
-El cliente, al dar al botón de "Hacer Pedido", será redirigido a nuestra Landing Page, que estará incrustada en tu web.
+![](../.gitbook/assets/image%20%2833%29.png)
 
-La Landing Page redirige al cliente de forma inteligente a cada tienda en función de la cercanía, de si están abiertas o cerradas, y de la disponibilidad de la empresa de couriers.
-{% endhint %}
-
-> Ejemplo en formato Desktop de Landing Page
+> Landing Page: Ejemplo en formato Desktop.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-> Ejemplo e formato Mobile de Landing Page
+> Landing Page: Ejemplo e formato Mobile.
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
