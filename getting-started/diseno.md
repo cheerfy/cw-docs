@@ -6,7 +6,7 @@ description: Diseña tu tienda online con tus atributos de mara
 
 ## Cómo personalizar tu diseño
 
-> _"Settings" -&gt; "Website" -&gt; "Design" -&gt; "Open Design Mode"_
+> _Encuéntralo en "Settings" - "Website" - "Design" - "Open Design Mode"_
 
 Elije tus colores corporativos, tipo de letra, imágenes y demás aspectos personalizables para cada una de las partes de tu tienda online.
 
