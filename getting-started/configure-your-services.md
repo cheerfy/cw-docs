@@ -50,11 +50,7 @@ Este es el período de tiempo desde que tu tienda cierra hasta que se acepta el 
 
 Esto solo afecta a los pedidos programados. Este es el tiempo a partir de ahora en el que se puede realizar un pedido programado. Es para evitar que los clientes programen un pedido en los próximos 10 minutos en lugar de que lo pida para ahora.
 
-So for example, if your order offset is 30 minutes and the current time is 6:00pm, the next time a customer can schedule an order would be 7:00pm. If they want it before 7:00pm, they can still just order for ASAP instead. If the order offset was 15 minutes, then the customer can order for 6:30pm.
-
 Por ejemplo, si añades aquí 30 minutos y la hora actual son las 6:00pm, la próxima vez que un cliente puede programar un pedido sería a las 7:00pm. Si lo quieren antes de las 7:00pm, lo pedirán para ahora. Si añadieses 15 minutos, el cliente podría programar un pedido para las 6:30 pm.
-
-The order offset also acts as a cut-off point to give you time to meet the order schedule. For example, if it's 6:00pm and your order offset is 30 minutes. If the customer is scheduling an order for 7:00pm, they must place the order before 6:30pm. This is to give you 30 minutes to meet the scheduled time.
 
 Este campo también sirve como punto de corte para dar tiempo a cumplir con la hora programada de los pedidos. Por ejemplo, si son las 6:00pm, has añadido 30 minutos, y el cliente está programando un pedido para las 7:00 pm, debe realizar el pedido antes de las 6:30 pm. Esto es para que tengas tiempo a cumplir con la hora programada.
 
@@ -62,11 +58,9 @@ Este campo también sirve como punto de corte para dar tiempo a cumplir con la h
 
 Cada servicio puede tener su propio horario de funcionamiento independiente. Establecer horas de funcionamiento personalizadas para un servicio en particular anulará las horas de funcionamiento generales establecidas para tu restaurante.
 
-## Estimated Wait Times & Auto Statuses
+## Tiempos de espera estimados y estados automáticos
 
-To help you better manage your orders and customer expectations, we provide a streamlined way to calculate order wait times and automatically update statuses. There are 6 order statuses:
-
-Para ayudarte a administrar mejor los pedidos y las expectativas de los clientes, proporcionamos una forma simplificada de calcular los tiempos de espera actualizndo los estados automáticamente. Hay 6 estados de pedido:
+Para ayudarte a administrar mejor los pedidos y las expectativas de los clientes, proporcionamos una forma simplificada de calcular los tiempos de espera actualizando los estados automáticamente. Hay 6 estados de pedido:
 
 * Un-confirmed
 * Confirmed
@@ -74,8 +68,6 @@ Para ayudarte a administrar mejor los pedidos y las expectativas de los clientes
 * On Route \(Solo para Delivery\)
 * Complete
 * Cancelled
-
-Both estimated wait times and automated status updates are connected to the same timing settings. This is so that your status updates and wait times are in sync with each other. This avoids any customer confusion. These timing settings are:
 
 Tanto los tiempos de espera estimados como las actualizaciones de estado automatizadas están sincronizados. Esto evita cualquier confusión del cliente. Estos ajustes de tiempo son:
 
@@ -93,26 +85,30 @@ Tanto los tiempos de espera estimados como las actualizaciones de estado automat
 * Time till complete es útil para marcar automáticamente los pedidos como completos.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 * Para que esto funcione de forma automática, debes activar que los servicios se actualicen automáticamente en "Enable Automated Order Statuses".
 * Configura solo los parámetros que necesites.
 {% endhint %}
 
 ### Estimated Wait Times
 
-A stated, customer wait times are calculated using the above timing settings.
+Los tiempos de espera del cliente se calculan utilizando los ajustes de tiempo anteriores.
 
-#### How estimated wait time are calculated for pickup or dine-in orders
+#### Cómo se calcula el tiempo de espera estimado para los pedidos de Take Away o Dine-in
 
-For pickup and dine-in orders, the estimated wait time is calculating but adding the **time till confirm** with the **time till ready** values. So for example, if your **time till confirm** was 5 and your **time till ready** was 20. The customer would get an estimated wait time of 20 + 5 = 25 minutes.
+El tiempo de espera estimado se calcula por la suma del **time till confirm** con **time till ready**. Por ejemplo, si tu **time till confirm** es de 5 minutos y tu **time till ready** es de 20, el cliente obtendría un tiempo de espera estimado de 20 + 5 = 25 minutos.
 
 If you have not added a value for time till confirm or time till ready, the estimated wait time would not be calculated.
 
-#### How estimated wait time is calculate for delivery orders
+Si no has agregado ningún valor para el time til confirm o time till ready, no se calculará el tiempo de espera estimado.
+
+#### Cómo se calcula el tiempo de espera estimado para los pedidos de Delivery
 
 For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming
 
-If you have not added a value for time till confirm or time till ready or time till on route, the delivery time would not be calculated.
+El tiempo de espera se calcula sumando el **time till confirm** + **time till ready** + **time till on route**. Luego, el **tiempo de conducción** se suma a eso. El tiempo de conducción se determina mediante un servicio externo que tiene en cuenta los datos del tráfico. Esto proporciona al cliente un tiempo de espera extremadamente preciso para que se entregue su pedido. 
+
+Si no ha agregado un valor para el **time till confirm**, **time till ready** o **time till on route**, no se calculará.
 
 ### Automated Statuses
 
