@@ -9,7 +9,3 @@ description: >-
 
 {% page-ref page="getting-started/" %}
 
-{% page-ref page="how-to-guides/" %}
-
-{% page-ref page="platform-information/" %}
-
