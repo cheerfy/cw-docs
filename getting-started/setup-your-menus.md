@@ -67,7 +67,7 @@ Los platos representan los artículos que se pueden comprar. Hay 2 tipos de plat
 
 #### Standard Dishes
 
-Los paltos estándar funcionan de forma normal. Lo usaría para crear artículos tales como:
+Los platos estándar funcionan de forma normal. Lo usaría para crear artículos tales como:
 
 * Sandwich
 * Pizza Prosciutto
