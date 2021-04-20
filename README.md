@@ -5,7 +5,7 @@ description: >-
   contactarnos.
 ---
 
-# Welcome!
+# ¡Bienvenido/a!
 
 {% page-ref page="getting-started/" %}
 

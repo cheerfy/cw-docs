@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Getting Started!](getting-started/README.md)
+* [¡Bienvenido/a!](README.md)
+* [Introducción a Cheerfy Shop](getting-started/README.md)
   * [Ajustes Generales](getting-started/ajustes-generales.md)
   * [Pasarela de Pagos](getting-started/pasarela-de-pagos.md)
   * [Empresa de Couriers](getting-started/empresa-de-couriers.md)
