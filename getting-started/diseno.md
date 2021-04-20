@@ -15,7 +15,6 @@ Elije tus colores corporativos, tipo de letra, imágenes y demás aspectos perso
 * Logo - 300 pixels de ancho por 100 pixels de alto
 * Header - 1920 pixels de ancho por 500 de alto
 * Logo icon - 350 por 350 pixels 
-* Imágenes de los platos - 600 pixels de ancho por 400 pixels de alto
 
 ## Ejemplos
 
