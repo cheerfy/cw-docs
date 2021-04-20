@@ -1,11 +1,11 @@
 ---
 description: >-
-  Once you have set up your online store settings and menus, you are ready to
-  start taking orders. Getting online orders requires you to drive customers to
-  your website to place orders.
+  Una vez has completado la configuración de tu tienda, ya estás en disposición
+  de recibir pedidos. Serán claves todas las acciones destinadas a atraer a tus
+  clientes a tu web.
 ---
 
-# Promoting Your Store
+# Optimiza tu tienda
 
 {% hint style="info" %}
 Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.

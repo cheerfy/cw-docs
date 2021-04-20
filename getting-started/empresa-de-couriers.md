@@ -18,7 +18,10 @@ description: >-
 {% endtab %}
 
 {% tab title="Mox" %}
+**Proceso de configuración:**
 
+1. Abre tu cuenta de Mox.
+2. Envíanos el API Key y los Site IDs para tu cuenta de Mox a [soporte@cheerfy.com](mailto:soporte@cheerfy.com) para conectarlas a Cheerfy.
 {% endtab %}
 {% endtabs %}
 

@@ -10,5 +10,5 @@
   * [Configura tu Menú](getting-started/setup-your-menus.md)
   * [Configura los servicios](getting-started/configure-your-services.md)
   * [Diseño](getting-started/diseno.md)
-  * [Promoting Your Store](getting-started/promoting-your-store.md)
+  * [Optimiza tu tienda](getting-started/promoting-your-store.md)
 
