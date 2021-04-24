@@ -4,6 +4,8 @@ description: Pincha en cada una de las acciones para más información.
 
 # Introducción a Cheerfy Shop
 
+
+
 {% page-ref page="ajustes-generales.md" %}
 
 {% page-ref page="pasarela-de-pagos.md" %}
