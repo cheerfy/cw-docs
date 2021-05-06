@@ -26,7 +26,7 @@ Puedes habilitar o deshabilitar servicios según sea necesario. Ve a la configur
 Para que la tienda funcione tienes que tener al menos un servicio activado
 {% endhint %}
 
-## Apuntes del servicio
+## Notas del servicio
 
 Puedes agregar notas personalizadas en "Pickup notes" para cada servicio que se mostrarán al cliente cuando se seleccione. Útil si necesitas transmitir un mensaje importante a tu cliente.
 
