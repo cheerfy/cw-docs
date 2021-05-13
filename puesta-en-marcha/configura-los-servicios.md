@@ -4,7 +4,7 @@ description: >-
   aceptas.
 ---
 
-# Configura los servicios
+# Configura los Servicios
 
 Hay 4 tipos de servicios disponibles:
 

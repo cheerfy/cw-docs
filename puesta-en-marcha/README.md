@@ -12,13 +12,13 @@ description: Pincha en cada una de las acciones para más información.
 
 {% page-ref page="gestion-de-envios.md" %}
 
-{% page-ref page="customer-journey.md" %}
+{% page-ref page="experiencia-de-cliente.md" %}
 
 {% page-ref page="recepcion-de-pedidos-online.md" %}
 
-{% page-ref page="setup-your-menus.md" %}
+{% page-ref page="configura-tu-menu.md" %}
 
-{% page-ref page="configure-your-services.md" %}
+{% page-ref page="configura-los-servicios.md" %}
 
 {% page-ref page="diseno.md" %}
 

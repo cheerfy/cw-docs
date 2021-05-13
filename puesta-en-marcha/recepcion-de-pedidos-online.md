@@ -4,7 +4,7 @@ description: >-
   cómo configurarlas.
 ---
 
-# Recepción de pedidos online
+# Recepción de Pedidos Online
 
 ## Integración con el POS
 

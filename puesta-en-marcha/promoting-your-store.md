@@ -5,7 +5,7 @@ description: >-
   clientes a tu web.
 ---
 
-# Optimiza tu tienda
+# Optimiza tu Tienda Online
 
 ## Los 7 pecados capitales de la venta online
 
