@@ -34,5 +34,5 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-## Pedidos en Sala
+
 
