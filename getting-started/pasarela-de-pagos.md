@@ -4,7 +4,7 @@ description: >-
   y cómo configurarlas.
 ---
 
-# Métodos de Pago
+# Pasarela de Pagos
 
 {% tabs %}
 {% tab title="Stripe" %}
