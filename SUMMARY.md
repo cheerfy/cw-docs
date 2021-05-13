@@ -10,5 +10,5 @@
   * [Configura tu Menú](puesta-en-marcha/configura-tu-menu.md)
   * [Configura los Servicios](puesta-en-marcha/configura-los-servicios.md)
   * [Diseño](puesta-en-marcha/diseno.md)
-  * [Optimiza tu Tienda Online](puesta-en-marcha/promoting-your-store.md)
+* [Optimiza tu Tienda Online](optimiza-tu-tienda-online.md)
 
