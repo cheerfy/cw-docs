@@ -8,7 +8,7 @@ description: Pincha en cada una de las acciones para más información.
 
 {% page-ref page="ajustes-generales.md" %}
 
-{% page-ref page="pasarela-de-pagos.md" %}
+{% page-ref page="metodos-de-pago.md" %}
 
 {% page-ref page="empresa-de-couriers.md" %}
 

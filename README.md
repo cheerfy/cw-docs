@@ -7,7 +7,7 @@ description: >-
 
 # ¡Bienvenido/a!
 
-{% page-ref page="getting-started/" %}
+{% page-ref page="puesta-en-marcha/" %}
 
 
 
