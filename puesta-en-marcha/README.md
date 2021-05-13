@@ -10,7 +10,7 @@ description: Pincha en cada una de las acciones para más información.
 
 {% page-ref page="metodos-de-pago.md" %}
 
-{% page-ref page="empresa-de-couriers.md" %}
+{% page-ref page="gestion-de-envios.md" %}
 
 {% page-ref page="customer-journey.md" %}
 
