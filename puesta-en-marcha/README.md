@@ -22,7 +22,5 @@ description: Pincha en cada una de las acciones para más información.
 
 {% page-ref page="diseno.md" %}
 
-{% page-ref page="../optimiza-tu-tienda-online.md" %}
-
 
 
