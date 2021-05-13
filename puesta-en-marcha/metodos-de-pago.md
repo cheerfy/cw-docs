@@ -6,6 +6,8 @@ description: >-
 
 # Métodos de Pago
 
+## Tarjeta
+
 {% tabs %}
 {% tab title="Stripe" %}
 {% hint style="success" %}
@@ -41,4 +43,10 @@ Opción recomendada por su facilidad y rapidez de configuración.
 ![](../.gitbook/assets/image%20%2835%29.png)
 {% endtab %}
 {% endtabs %}
+
+## Apple Pay y Google Pay
+
+
+
+## Efectivo
 
