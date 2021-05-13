@@ -4,7 +4,11 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 # Experiencia de Cliente
 
-## Añade botón de "Hacer Pedido" en tu web.
+## Pedidos Online
+
+{% hint style="success" %}
+**Añade el botón de "Hacer Pedido" en tu web.**
+{% endhint %}
 
 **Destácalo facilitando la visibilidad y accesso por parte de tus clientes**
 
