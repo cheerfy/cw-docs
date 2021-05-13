@@ -2,7 +2,7 @@
 description: Pincha en cada una de las acciones para más información.
 ---
 
-# Introducción a Cheerfy Shop
+# Acciones clave para el lanzamiento
 
 
 

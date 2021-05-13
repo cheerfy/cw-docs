@@ -1,7 +1,7 @@
 # Table of contents
 
 * [¡Bienvenido/a!](README.md)
-* [Introducción a Cheerfy Shop](puesta-en-marcha/README.md)
+* [Acciones clave para el lanzamiento](puesta-en-marcha/README.md)
   * [Ajustes Generales](puesta-en-marcha/ajustes-generales.md)
   * [Métodos de Pago](puesta-en-marcha/metodos-de-pago.md)
   * [Gestión de Envíos](puesta-en-marcha/gestion-de-envios.md)

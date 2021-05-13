@@ -9,7 +9,7 @@ description: >-
 
 ## Los 7 pecados capitales de la venta online
 
-Te compartimos [en este enlace](https://www.es.cheerfy.com/academy/los-7-pecados-capitales-de-la-venta-online) anrtículo realizado por la [Cheerfy Academy](https://www.es.cheerfy.com/academy), en el que se describen diferentes acciones que debes llevar a cabo.
+Te compartimos [en este enlace](https://www.es.cheerfy.com/academy/los-7-pecados-capitales-de-la-venta-online) artículo realizado por la [Cheerfy Academy](https://www.es.cheerfy.com/academy), en el que se describen diferentes acciones que debes llevar a cabo.
 
 ## Paid Media
 
