@@ -46,5 +46,15 @@ Añade un código QR con un enlace a tu tienda online.
 2. Dale a "Enabled" para activar el servicio en Sala.
 3. Ve a "Tables" y añade tantas mesas como necesites. 
 4. Configura el resto del servicio de la misma forma que el resto.
-5. D
+5. Dale a "Save".
+
+![](../.gitbook/assets/image%20%2876%29.png)
+
+**Experiencia de cliente**
+
+1. Añade un QR en tu mesa con el enlace a tu tienda online.
+2. El cliente, al pedir, elije la mesa correspondiente.
+3. El cliente completa su pedido.
+
+![](../.gitbook/assets/image%20%2872%29.png)
 
