@@ -58,7 +58,16 @@ Es necesario haber configurado Stripe.
 4. Rellena el campo "Label" para ponerle el nombre con el que verán tus clientes el sistema de pago. Ejemplo: "Apple Pay \| Google Pay".
 5. Pincha en "Enabled" para activar y dale a "Save".
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ## Efectivo
+
+**Proceso de configuración:**
+
+1. Ve a "Settings" - "Payments" - "Add Payment Method" - "Custom".
+2. En el campo "Service" indica en qué servicios quieres añadir este método de pago. Si dejas este campo vacío se incluirá por defecto en todos los servicios.
+3. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago en el local".
+4. Pincha en "Enabled" para activar y dale a "Save".
+
+![](../.gitbook/assets/image%20%2871%29.png)
 
