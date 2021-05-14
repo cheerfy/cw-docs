@@ -35,8 +35,8 @@ Opción recomendada por su facilidad y rapidez de configuración.
 2. Te pedirán una serie de datos de tu empresa y se pondrán en contacto contigo.
 3. Añade en Cheerfy Shop tus Claves de API de Checkout: Clave Secreta y Clave Publicable.
 4. Para ello, ve a "Settings" - "Payments" - "Add Payment Method" - "Checkout".
-5. Pincha en "Enabled" para activar.
-6. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago con Tarjeta".
+5. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago con Tarjeta".
+6. Pincha en "Enabled" para activar y dale a "Save".
 
 > Aquí puedes encontrar dónde añadir tus Claves de API:
 
