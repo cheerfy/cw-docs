@@ -20,8 +20,8 @@ Opción recomendada por su facilidad y rapidez de configuración.
 2. Una vez creada tu cuenta, dentro de Stripe, ve a "Desarrolladores" - "Claves de API".
 3. Añade en Cheerfy Shop tus Claves de API de Stripe: Clave Secreta y Clave Publicable.
 4. Para ello, ve a "Settings" - "Payments" - "Add Payment Method" - "Stripe".
-5. Pincha en "Enabled" para activar.
-6. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago con Tarjeta".
+5. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago con Tarjeta".
+6. Pincha en "Enabled" para activar y dale a "Save".
 
 > Aquí puedes encontrar dónde añadir tus claves de API
 
@@ -46,7 +46,19 @@ Opción recomendada por su facilidad y rapidez de configuración.
 
 ## Apple Pay y Google Pay
 
+**Proceso de configuración:**
 
+{% hint style="warning" %}
+Es necesario haber configurado Stripe.
+{% endhint %}
+
+1. Configura Stripe como método de pago \(paso anterior\).
+2. Una vez configurado, pincha en "Add Payment Method" - "Stripe Digital Wallet \(Google Pay, Apple Pay\)".
+3. De forma automática, aparecerá configurado.
+4. Rellena el campo "Label" para ponerle el nombre con el que verán tus clientes el sistema de pago. Ejemplo: "Apple Pay \| Google Pay".
+5. Pincha en "Enabled" para activar y dale a "Save".
+
+![](../.gitbook/assets/image%20%2871%29.png)
 
 ## Efectivo
 
