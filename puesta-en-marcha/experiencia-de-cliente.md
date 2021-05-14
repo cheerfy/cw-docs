@@ -34,5 +34,17 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
+## Pedidos en Sala
 
+{% hint style="success" %}
+Añade un código QR con un enlace a tu tienda online.
+{% endhint %}
+
+**Proceso de configuración**
+
+1. Ve a "Settings" - "Services" - "Dine-in".
+2. Dale a "Enabled" para activar el servicio en Sala.
+3. Ve a "Tables" y añade tantas mesas como necesites. 
+4. Configura el resto del servicio de la misma forma que el resto.
+5. D
 
