@@ -6,7 +6,13 @@ description: Pincha en cada una de las acciones para más información.
 
 
 
+{% page-ref page="configura-tu-menu.md" %}
+
 {% page-ref page="ajustes-generales.md" %}
+
+{% page-ref page="configura-los-servicios.md" %}
+
+{% page-ref page="diseno.md" %}
 
 {% page-ref page="metodos-de-pago.md" %}
 
@@ -15,12 +21,6 @@ description: Pincha en cada una de las acciones para más información.
 {% page-ref page="experiencia-de-cliente.md" %}
 
 {% page-ref page="recepcion-de-pedidos-online.md" %}
-
-{% page-ref page="configura-tu-menu.md" %}
-
-{% page-ref page="configura-los-servicios.md" %}
-
-{% page-ref page="diseno.md" %}
 
 
 
