@@ -48,7 +48,7 @@ Añade un código QR con un enlace a tu tienda online.
 4. Configura el resto del servicio de la misma forma que el resto.
 5. Dale a "Save".
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 **Experiencia de cliente**
 
@@ -56,5 +56,5 @@ Añade un código QR con un enlace a tu tienda online.
 2. El cliente, al pedir, elije la mesa correspondiente.
 3. El cliente completa su pedido.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 

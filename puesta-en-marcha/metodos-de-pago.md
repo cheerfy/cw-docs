@@ -58,7 +58,7 @@ Es necesario haber configurado Stripe.
 4. Rellena el campo "Label" para ponerle el nombre con el que verán tus clientes el sistema de pago. Ejemplo: "Apple Pay \| Google Pay".
 5. Pincha en "Enabled" para activar y dale a "Save".
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 ## Efectivo
 
@@ -69,5 +69,5 @@ Es necesario haber configurado Stripe.
 3. Rellena el campo "Label" para ponerle el nombre que verán tus clientes al sistema de pago. Ejemplo: "Pago en el local".
 4. Pincha en "Enabled" para activar y dale a "Save".
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
