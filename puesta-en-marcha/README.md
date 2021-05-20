@@ -22,7 +22,5 @@ description: Pincha en cada una de las acciones para más información.
 
 {% page-ref page="crea-promociones.md" %}
 
-{% page-ref page="guia-para-empleados.md" %}
-
 
 

@@ -11,6 +11,6 @@
   * [Experiencia de Cliente](puesta-en-marcha/experiencia-de-cliente.md)
   * [Recepción de Pedidos Online](puesta-en-marcha/recepcion-de-pedidos-online.md)
   * [Crea Promociones](puesta-en-marcha/crea-promociones.md)
-  * [Guía para Empleados](puesta-en-marcha/guia-para-empleados.md)
 * [Optimiza tu Tienda Online](optimiza-tu-tienda-online.md)
+* [Guía para Empleados](guia-para-empleados.md)
 
