@@ -84,8 +84,6 @@ Los combos son un tipo especial de plato que contiene otros platos. Te permite c
 * Elige 3 pizzas, 2 entrantes y 2 bebidas
 * Elije una hamburguesa, un entrante y una bebida
 
-To do this you will first need to have created some standard dishes. Then when creating your combo, you can create 4 choices, 3 pizza choices and one drink choice. You can then assign dish choices to the pizzas and drinks for customers to choose from.
-
 Para hacer esto, primero deberás haber creado algunos platos estándar. Luego, al crear tu combo, puedes crear 4 opciones, por ejemplo, 3 opciones de pizza y una opción de bebida. También puedes asignar opciones de platos a las pizzas y bebidas para que los clientes elijan.
 
 {% hint style="info" %}

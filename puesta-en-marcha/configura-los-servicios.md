@@ -104,8 +104,6 @@ Si no has agregado ningún valor para el time til confirm o time till ready, no 
 
 #### Cómo se calcula el tiempo de espera estimado para los pedidos de Delivery
 
-For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming
-
 El tiempo de espera se calcula sumando el **time till confirm** + **time till ready** + **time till on route**. Luego, el **tiempo de conducción** se suma a eso. El tiempo de conducción se determina mediante un servicio externo que tiene en cuenta los datos del tráfico. Esto proporciona al cliente un tiempo de espera extremadamente preciso para que se entregue su pedido. 
 
 Si no ha agregado un valor para el **time till confirm**, **time till ready** o **time till on route**, no se calculará.
