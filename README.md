@@ -11,9 +11,7 @@ description: >-
 
 {% page-ref page="puesta-en-marcha/" %}
 
+{% page-ref page="forma-a-tus-empleados.md" %}
+
 {% page-ref page="optimiza-tu-tienda-online.md" %}
-
-{% page-ref page="guia-para-empleados.md" %}
-
-
 

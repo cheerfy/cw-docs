@@ -4,7 +4,7 @@ description: >-
   vayan a estar involucrados en Cheerfy Shop.
 ---
 
-# Guía para Empleados
+# Forma a tus Empleados
 
 ## Cancelación de Pedidos
 
