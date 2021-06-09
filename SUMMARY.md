@@ -1,7 +1,7 @@
 # Table of contents
 
 * [¡Bienvenido/a!](README.md)
-* [Acciones clave para el lanzamiento](puesta-en-marcha/README.md)
+* [Lanza tu Tienda Online](puesta-en-marcha/README.md)
   * [Ajustes Generales](puesta-en-marcha/ajustes-generales.md)
   * [Configura tu Menú](puesta-en-marcha/configura-tu-menu.md)
   * [Configura los Servicios](puesta-en-marcha/configura-los-servicios.md)

@@ -2,7 +2,7 @@
 description: Pincha en cada una de las acciones para más información.
 ---
 
-# Acciones clave para el lanzamiento
+# Lanza tu Tienda Online
 
 {% page-ref page="ajustes-generales.md" %}
 
