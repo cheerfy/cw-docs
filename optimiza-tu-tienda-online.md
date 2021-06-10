@@ -55,7 +55,7 @@ Añade tu Pixel de Facebook a tu tienda online para rastrear visitantes y analiz
 
 4. Añade en "HTML Body Code" el siguiente script. Incluye tu Pixel sustituyédolo por lo marcado en negrita:  
   
-   &lt;script src="[https://static.cheerfy.com/integration/cheerfy\_cw\_facebook\_anlalytics.js](https://cheerfyshop2.dewenir.es/integration/cheerfy_cw_facebook_anlalytics.js)"&gt;&lt;/script&gt;  
+   &lt;script src="[https://static.cheerfy.com/integration/cheerfy\_cw\_facebook\_anlalytics.js](https://static.cheerfy.com/integration/cheerfy_cw_facebook_analytics.js)"&gt;&lt;/script&gt;  
    &lt;noscript&gt;
 
      &lt;img height="1" width="1" style="display:none" 
