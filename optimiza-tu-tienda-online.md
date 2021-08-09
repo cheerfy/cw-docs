@@ -100,7 +100,7 @@ Añade el seguimiento de Google Analytics a tu tienda online para rastrear a tus
    &lt;script src="https://static.cheerfy.com/integration/cheerfy\_cw\_google\_analytics.js"&gt;&lt;/script&gt;  
    &lt;!-- Google Tag Manager \(noscript\) --&gt;
 
-   &lt;noscript&gt;&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXJDSZ7"
+   &lt;noscript&gt;&lt;iframe src="https://www.googletagmanager.com/ns.html?id='**your-gtm-id-goes-here**'"
 
    height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;&lt;/noscript&gt;
 
