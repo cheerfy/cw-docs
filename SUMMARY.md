@@ -17,3 +17,24 @@
 * [Forma a tus Empleados](cheerfy-shop-1/forma-a-tus-empleados.md)
 * [Optimiza tu Tienda Online](cheerfy-shop-1/optimiza-tu-tienda-online.md)
 
+## Cheerfy Loyalty
+
+* [Llena tu Base de Datos de Clientes](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/README.md)
+  * [Integraciones con otras plataformas](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/integraciones-con-otras-plataformas.md)
+  * [Configura el proceso de registro](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/configura-el-proceso-de-registro.md)
+  * [Maximiza el número de registros](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/maximiza-el-numero-de-registros.md)
+* [Interactúa con todos tus clientes](cheerfy-loyalty/interactua-con-todos-tus-clientes/README.md)
+  * [Tipos de mensajes](cheerfy-loyalty/interactua-con-todos-tus-clientes/tipos-de-mensajes.md)
+  * [Cómo configurar un mensaje](cheerfy-loyalty/interactua-con-todos-tus-clientes/como-configurar-un-mensaje.md)
+  * [Funcionamiento de los cupones](cheerfy-loyalty/interactua-con-todos-tus-clientes/funcionamiento-de-los-cupones.md)
+  * [Casos de uso básicos](cheerfy-loyalty/interactua-con-todos-tus-clientes/casos-de-uso-basicos.md)
+  * [Tarjeta de fidelización](cheerfy-loyalty/interactua-con-todos-tus-clientes/tarjeta-de-fidelizacion.md)
+* [Analiza los resultados](cheerfy-loyalty/analiza-los-resultados.md)
+
+---
+
+* [Instalación Wi-Fi](instalacion-wi-fi.md)
+* [Instalación Escáner](instalacion-escaner.md)
+* [API Tarjeta de Fidelización](api-tarjeta-de-fidelizacion.md)
+* [API Cupones](api-cupones.md)
+
