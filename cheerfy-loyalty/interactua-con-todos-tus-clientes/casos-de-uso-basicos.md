@@ -6,8 +6,6 @@ description: >-
 
 # Casos de uso básicos
 
-
-
 {% hint style="info" %}
 Puedes decidir implementar todos los casos de uso que detallamos o no. 
 

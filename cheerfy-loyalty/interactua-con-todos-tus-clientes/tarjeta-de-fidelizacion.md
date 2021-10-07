@@ -4,8 +4,6 @@ description: Encuentra aquí toda la información relativa a la tarjeta de fidel
 
 # Tarjeta de fidelización
 
-
-
 > La tarjeta de fidelización, si decides implementarla, será la base sobre la que gire tu plan de fidelización. Por eso es importante entender en su conjunto la estructura de un plan de fidelización.
 >
 > Si comparásemos un plan de fidelización con un Iceberg, la tarjeta de fidelización sería la parte visible del plan. Pero por debajo, hay toda una estructura que será la que permita que todo funcione como esperas.

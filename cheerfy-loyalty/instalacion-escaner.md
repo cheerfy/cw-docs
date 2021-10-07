@@ -6,8 +6,6 @@ description: >-
 
 # Instalación Escáner
 
-
-
 ## Instalación escáner
 
 {% hint style="info" %}
