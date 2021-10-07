@@ -1,6 +1,7 @@
 # Table of contents
 
-* [¡Bienvenido/a!](README.md)
+* [¡Bienvenido/a a Cheerfy!](README.md)
+* [Cheerfy Shop](cheerfy-shop.md)
 * [Lanza tu Tienda Online](puesta-en-marcha/README.md)
   * [Ajustes Generales](puesta-en-marcha/ajustes-generales.md)
   * [Configura tu Menú](puesta-en-marcha/configura-tu-menu.md)

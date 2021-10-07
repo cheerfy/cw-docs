@@ -1,17 +1,12 @@
 ---
 description: >-
-  Gracias por confiar en Cheerfy Shop. Aquí encontrarás todo lo necesario para
-  poner en marcha nuestra plataforma. Si necesitas ayuda, no dudes en
-  contactarnos.
+  Te mostramos aquí toda la documentación necesaria para la implementación de
+  nuestra plataforma.
 ---
 
-# ¡Bienvenido/a!
+# ¡Bienvenido/a a Cheerfy!
+
+{% page-ref page="cheerfy-shop.md" %}
 
 
-
-{% page-ref page="puesta-en-marcha/" %}
-
-{% page-ref page="forma-a-tus-empleados.md" %}
-
-{% page-ref page="optimiza-tu-tienda-online.md" %}
 
