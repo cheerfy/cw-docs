@@ -6,8 +6,6 @@ description: >-
 
 # Instalación Wi-Fi
 
-
-
 ## Proceso de instalación
 
 **1.** Conecta el cable de red a un puerto de tu router principal que tenga conexión a internet.
