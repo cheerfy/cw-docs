@@ -6,7 +6,5 @@ description: >-
 
 # ¡Bienvenido/a a Cheerfy!
 
-{% page-ref page="cheerfy-shop.md" %}
-
 
 
