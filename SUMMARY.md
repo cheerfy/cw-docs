@@ -30,11 +30,8 @@
   * [Casos de uso básicos](cheerfy-loyalty/interactua-con-todos-tus-clientes/casos-de-uso-basicos.md)
   * [Tarjeta de fidelización](cheerfy-loyalty/interactua-con-todos-tus-clientes/tarjeta-de-fidelizacion.md)
 * [Analiza los resultados](cheerfy-loyalty/analiza-los-resultados.md)
-
----
-
-* [Instalación Wi-Fi](instalacion-wi-fi.md)
-* [Instalación Escáner](instalacion-escaner.md)
-* [API Tarjeta de Fidelización](api-tarjeta-de-fidelizacion.md)
-* [API Cupones](api-cupones.md)
+* [Instalación Wi-Fi](cheerfy-loyalty/instalacion-wi-fi.md)
+* [Instalación Escáner](cheerfy-loyalty/instalacion-escaner.md)
+* [API Tarjeta de Fidelización](cheerfy-loyalty/api-tarjeta-de-fidelizacion.md)
+* [API Cupones](cheerfy-loyalty/api-cupones.md)
 

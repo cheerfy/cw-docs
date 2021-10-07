@@ -24,7 +24,7 @@ Podrás utilizar cualquier dispositivo iOS o Android que contenga una cámara co
 
 5. Haz clic la rueda de ajustes de la esquina superior derecha: "Loyalty" - "Escáner".
 
-![](.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 {% hint style="warning" %}
 Si no ves este botón, prueba a tumbar el dispositivo, puede que la Web no sea "responsive" con ese dipositivo y no lo veas.

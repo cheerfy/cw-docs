@@ -14,11 +14,11 @@ description: >-
 
 **2.** Conecta ese mismo cable de red a nuestro router en el puerto número 1.
 
-![](.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 **3.** Conecta el cable de alimentación del enchufe al puerto de energía.
 
-![](.gitbook/assets/image%20%28163%29.png)
+![](../.gitbook/assets/image%20%28163%29.png)
 
 **4.** Espera unos minutos hasta que la luz del puerto 1 se ilumine de forma constante.
 

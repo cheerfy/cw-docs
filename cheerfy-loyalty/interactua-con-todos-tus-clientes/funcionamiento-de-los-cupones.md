@@ -43,7 +43,7 @@ Para que tu tienda online sea capaz de identificar a través del email qué cupo
 
 #### ¿Cómo accedo y utilizo el escáner?
 
-{% page-ref page="../../instalacion-escaner.md" %}
+{% page-ref page="../instalacion-escaner.md" %}
 
 #### Integración con tu TPV
 
@@ -53,7 +53,7 @@ Si lo deseas, tenemos la capacidad de integrarnos con tu TPV para que cuando lea
 
 Encuentra aquí la información necesaria sobre nuestra API para la integración:
 
-{% page-ref page="../../api-cupones.md" %}
+{% page-ref page="../api-cupones.md" %}
 
 ## ¿Cómo configuro un cupón?
 

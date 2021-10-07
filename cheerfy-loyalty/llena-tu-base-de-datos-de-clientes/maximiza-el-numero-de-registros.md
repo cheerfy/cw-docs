@@ -52,5 +52,5 @@ Los clientes que se conecten al Wi-Fi accederán al mismo proceso de registro ya
 
 ![](../../.gitbook/assets/image%20%28156%29.png)
 
-{% page-ref page="../../instalacion-wi-fi.md" %}
+{% page-ref page="../instalacion-wi-fi.md" %}
 
