@@ -11,7 +11,7 @@ description: >-
 {% tabs %}
 {% tab title="Stripe Connect NEW" %}
 {% hint style="success" %}
-Opción recomendada por rapidez de configuración y condiciones económicas.&#x20;
+Opción recomendada por rapidez de configuración y mejora de las condiciones económicas.
 {% endhint %}
 
 
@@ -49,10 +49,6 @@ Algunas consideraciones para completar el formulario de Stripe:
 {% endtab %}
 
 {% tab title="Stripe" %}
-{% hint style="success" %}
-Opción recomendada por su facilidad y rapidez de configuración.
-{% endhint %}
-
 **Proceso de configuración:**
 
 1. Abre una cuenta de Stripe [aquí](https://dashboard.stripe.com/register).

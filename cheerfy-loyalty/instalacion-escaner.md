@@ -16,16 +16,22 @@ Podrás proceder de dos formas:
 ## Opción 1: Instalación de lector de QRs
 
 {% hint style="success" %}
-Recomendamos esta opción por una mayor facilidad y velocidad de uso para tus empleados. Además, suele ser más económica que una tablet o similar.
+Recomendamos esta opción por una mayor facilidad y velocidad de uso para tus empleados.
 {% endhint %}
 
 ### Configura tu lector de QR
 
 {% hint style="info" %}
-Para todos los lectores de QRs disponibles en el mercado, la configuración será muy similar. Sigue los pasos indicados del modelo que elijas.
+Puedes conectar cualquier escáner 2D (lector de códigos de barras y códigos QR).
+
+La configuración es muy similar en todos los modelos disponibles en el mercado.
+
+En caso de no saber cuál elegir, te sugerimos el modelo Tera HW0002.
 {% endhint %}
 
-Ejemplificamos mostrando el proceso de configuración del modelo Tera HW0002.
+Para mostrar una configuración, ejemplificamos con dicho modelo (Tera HW0002):
+
+![](<../.gitbook/assets/image (167).png>)
 
 Es tan simple como ir escaneando los distintos códigos de barras en el orden indicado.&#x20;
 
@@ -47,7 +53,7 @@ A medida que procedas con dichos escaneos, se irá configurando automáticamente
 
 5\. Elige la opción "Modo lector de códigos" y dale a "Aceptar".
 
-![](<../.gitbook/assets/image (167).png>)
+![](<../.gitbook/assets/image (167) (1).png>)
 
 {% hint style="warning" %}
 En caso de que hayas elegido la opción "Introduce el total del ticket para calcular las estampas puntos", cuando vayas a canjear la tarjeta de fidelización, deberás indicar la cantidad del ticket en el dispositivo al que el lector esté conectado.
@@ -79,7 +85,7 @@ Si no ves este botón, prueba a tumbar el dispositivo, puede que la Web no sea "
 
 7\. Elige la opción "Modo cámara".
 
-![](<../.gitbook/assets/image (169).png>)
+![](<../.gitbook/assets/image (169) (1).png>)
 
 8\. Pop-up Navegador: Permitir cámara.
 
