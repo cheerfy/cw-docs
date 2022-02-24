@@ -29,25 +29,25 @@ Añade tu Pixel de Facebook a tu tienda online para rastrear visitantes y analiz
 
     _\<script>_
 
-    _  !function(f,b,e,v,n,t,s)_
+    &#x20; _!function(f,b,e,v,n,t,s)_
 
-    _  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?_
+    &#x20; _{if(f.fbq)return;n=f.fbq=function(){n.callMethod?_
 
-    _  n.callMethod.apply(n,arguments):n.queue.push(arguments)};_
+    &#x20; _n.callMethod.apply(n,arguments):n.queue.push(arguments)};_
 
-    _  if(!f.\_fbq)f.\_fbq=n;n.push=n;n.loaded=!0;n.version='2.0';_
+    &#x20; _if(!f.\_fbq)f.\_fbq=n;n.push=n;n.loaded=!0;n.version='2.0';_
 
-    _  n.queue=\[];t=b.createElement(e);t.async=!0;_
+    &#x20; _n.queue=\[];t=b.createElement(e);t.async=!0;_
 
-    _  t.src=v;s=b.getElementsByTagName(e)\[0];_
+    &#x20; _t.src=v;s=b.getElementsByTagName(e)\[0];_
 
-    _  s.parentNode.insertBefore(t,s)}(window, document,'script',_
+    &#x20; _s.parentNode.insertBefore(t,s)}(window, document,'script',_
 
-    _  'https://connect.facebook.net/en\_US/fbevents.js');_
+    &#x20; _'https://connect.facebook.net/en\_US/fbevents.js');_
 
-    _  fbq('init', '**{your-pixel-id-goes-here}**');_
+    &#x20; _fbq('init', '**{your-pixel-id-goes-here}**');_
 
-    _  fbq('track', 'PageView');_
+    &#x20; _fbq('track', 'PageView');_
 
     _\</script>_
 

@@ -42,7 +42,7 @@ Algunas consideraciones para completar el formulario de Stripe:
 {% hint style="warning" %}
 **En caso de tener varios locales, dispones de dos opciones:**
 
-1.** **Cuentas Stripe separadas para cada local: repite estos pasos para cada local.
+1\. **** Cuentas Stripe separadas para cada local: repite estos pasos para cada local.
 
 2\. Cuenta Stripe común a varios o todos los locales: una vez has creado una cuenta para un local, puedes asociarla a otro repitiendo los pasos anteriores y, en el paso 3, usando el mismo email y el mismo teléfono que antes. No tendrás que rellenar todo otra vez.
 {% endhint %}

@@ -26,15 +26,15 @@ Este caso de uso es especialmente importante por dos motivos:
 
 > Te indicamos qué parámetros básicos son los que necesitas configurar para su buen funcionamiento.&#x20;
 
-**1. Contexto: **asegúrate de que el tipo de mensaje sea en llegada así como de elegir en qué localizaciones quieres enviar el mensaje.&#x20;
+**1. Contexto:** asegúrate de que el tipo de mensaje sea en llegada así como de elegir en qué localizaciones quieres enviar el mensaje.&#x20;
 
 ![](<../../.gitbook/assets/image (120).png>)
 
-**2. Contenido: **asegúrate de adaptar el contenido y narrativa de tu mensaje a tus necesidades en función de lo que deseas transmitir. Acuérdate también de todos los objetos incrustables que puedes utilizar.
+**2. Contenido:** asegúrate de adaptar el contenido y narrativa de tu mensaje a tus necesidades en función de lo que deseas transmitir. Acuérdate también de todos los objetos incrustables que puedes utilizar.
 
 ![](<../../.gitbook/assets/image (147).png>)
 
-**3. Audiencia: **asegúrate de que el filtro de "Número de visitas" es 1, lo que significa que el mensaje se enviará solo en la primera visita.
+**3. Audiencia:** asegúrate de que el filtro de "Número de visitas" es 1, lo que significa que el mensaje se enviará solo en la primera visita.
 
 ![](<../../.gitbook/assets/image (95).png>)
 
@@ -82,23 +82,23 @@ Son muchas las virtudes de este caso de uso:
 
 ### ¿Cómo lo configuramos?
 
-**1. Contexto: **Se trata de un mensaje en salida. Lo más importante en este caso es elegir la frecuencia con la que deseas pedir feedback a tus clientes. Con el objetivo de que cuando un cliente conteste, lo haga de forma genuina, recomendamos no pedir feedback cada visita, sino cada X visitas.
+**1. Contexto:** Se trata de un mensaje en salida. Lo más importante en este caso es elegir la frecuencia con la que deseas pedir feedback a tus clientes. Con el objetivo de que cuando un cliente conteste, lo haga de forma genuina, recomendamos no pedir feedback cada visita, sino cada X visitas.
 
 Ejemplo: cada 10 visitas o pedidos en tu tienda online.
 
 ![](<../../.gitbook/assets/image (133).png>)
 
-**2. Contenido: **la narrativa y el tono con el que le pides su valoración a un cliente es clave para elevar el ratio de respuestas.
+**2. Contenido:** la narrativa y el tono con el que le pides su valoración a un cliente es clave para elevar el ratio de respuestas.
 
 Compartimos aquí un ejemplo:
 
 ![](<../../.gitbook/assets/image (143).png>)
 
-**3. Audiencia: **un filtro que solemos utilizar es el de "Duración de última visita". Se hace para los casos en los que el restaurante este utilizando el Wi-Fi. Se indica que se envíe a aquellos clientes cuya duración de la visita haya sido de 2 minutos o más. El objetivo es impactar a clientes que te hayan visitado genuinamente, y no a alguien que haya pasado por delante durante un momento.
+**3. Audiencia:** un filtro que solemos utilizar es el de "Duración de última visita". Se hace para los casos en los que el restaurante este utilizando el Wi-Fi. Se indica que se envíe a aquellos clientes cuya duración de la visita haya sido de 2 minutos o más. El objetivo es impactar a clientes que te hayan visitado genuinamente, y no a alguien que haya pasado por delante durante un momento.
 
 ![](<../../.gitbook/assets/image (157).png>)
 
-**4. Preguntas de la encuesta: **para determinar las preguntas que queréis implementar, deberéis poneros en contacto con nosotros a través de soporte@cheerfy.com.
+**4. Preguntas de la encuesta:** para determinar las preguntas que queréis implementar, deberéis poneros en contacto con nosotros a través de soporte@cheerfy.com.
 
 ## Mensaje de cumpleaños
 
@@ -142,7 +142,7 @@ Se pueden definir distintos tipos de estrategias para este caso de uso. Aquí un
 
 Se trata de un mensaje en salida. Se enviará después del tiempo que consideres desde su último pedido o última visita.
 
-**1. Contexto: **asegúrate de definir correctamente el tiempo de retardo desde su último pedido o visita.
+**1. Contexto:** asegúrate de definir correctamente el tiempo de retardo desde su último pedido o visita.
 
 ![](<../../.gitbook/assets/image (101).png>)
 

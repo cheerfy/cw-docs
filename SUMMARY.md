@@ -2,7 +2,7 @@
 
 * [¡Bienvenido/a a Cheerfy!](README.md)
 
-## Cheerfy Shop <a id="cheerfy-shop-1"></a>
+## Cheerfy Shop <a href="#cheerfy-shop-1" id="cheerfy-shop-1"></a>
 
 * [Lanza tu Tienda Online](cheerfy-shop-1/puesta-en-marcha/README.md)
   * [Ajustes Generales](cheerfy-shop-1/puesta-en-marcha/ajustes-generales.md)
@@ -21,6 +21,7 @@
 
 * [Llena tu Base de Datos de Clientes](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/README.md)
   * [Integraciones con otras plataformas](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/integraciones-con-otras-plataformas.md)
+  * [Importar](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/importar.md)
   * [Configura el proceso de registro](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/configura-el-proceso-de-registro.md)
   * [Maximiza el número de registros](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/maximiza-el-numero-de-registros.md)
 * [Interactúa con todos tus clientes](cheerfy-loyalty/interactua-con-todos-tus-clientes/README.md)
@@ -34,4 +35,3 @@
 * [Instalación Escáner](cheerfy-loyalty/instalacion-escaner.md)
 * [API Tarjeta de Fidelización](cheerfy-loyalty/api-tarjeta-de-fidelizacion.md)
 * [API Cupones](cheerfy-loyalty/api-cupones.md)
-

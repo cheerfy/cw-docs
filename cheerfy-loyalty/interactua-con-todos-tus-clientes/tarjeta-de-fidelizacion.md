@@ -69,7 +69,7 @@ La forma en la que le hables a tus clientes es determinante para conseguir conec
 
 ![](<../../.gitbook/assets/image (105).png>)
 
-Compartimos [**aquí algunos ejemplos**](https://www.es.cheerfy.com/academy/blog/ejemplos-de-storytelling-para-tu-plan-de-fidelizacin)** **de cómo lo hacen algunos de nuestros clientes.
+Compartimos [**aquí algunos ejemplos**](https://www.es.cheerfy.com/academy/blog/ejemplos-de-storytelling-para-tu-plan-de-fidelizacin) **** de cómo lo hacen algunos de nuestros clientes.
 
 ## Fase 3: Contenido
 
@@ -104,7 +104,7 @@ Para crear un nivel nuevo ve al desplegable mostrado en la foto y haz clic en "C
 
 ![](<../../.gitbook/assets/image (125).png>)
 
-4.** Reglas de conversión**: indica cada cuántos € cuántas estampas o puntos das.
+4\. **Reglas de conversión**: indica cada cuántos € cuántas estampas o puntos das.
 
 5\. **Ciclo de incentivos**: indica la duración de tu tarjeta de fidelización.
 
@@ -138,7 +138,7 @@ Si el total son 8, solo le quedarían 6 para llegar a completar la tarjeta.
 
 12\. **Denominación del cliente**: siguiendo la línea de la moneda, recomendamos a este campo también le llames "Nombre" sin más. Dale un toque más divertido. [**Aquí algunos ejemplos**](https://www.es.cheerfy.com/academy/blog/ejemplos-de-storytelling-para-tu-plan-de-fidelizacin)**.**
 
-13.** Denominación del campo "nivel"**: llama al nivel de la forma que consideres. Combina con el primer parámetro "Nombre del nivel". Revisa como queda para iOS, Android y WEB.
+13\. **Denominación del campo "nivel"**: llama al nivel de la forma que consideres. Combina con el primer parámetro "Nombre del nivel". Revisa como queda para iOS, Android y WEB.
 
 ![](<../../.gitbook/assets/image (128).png>)
 

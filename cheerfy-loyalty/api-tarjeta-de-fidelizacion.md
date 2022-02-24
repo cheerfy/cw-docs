@@ -23,10 +23,10 @@ description: >-
 Una tarjeta de fidelización deberá contener obligatoriamente 1 parámetro:
 
 {% hint style="info" %}
-**user\_id : Identificador único **que identifica** al cliente **(en Cheerfy).
+**user\_id : Identificador único** que identifica **al cliente** (en Cheerfy).
 {% endhint %}
 
-** **El formato del user\_id es un campo alfanumérico con un número variable de caracteres.
+&#x20;**** El formato del user\_id es un campo alfanumérico con un número variable de caracteres.
 
 ### 1.2. Contenido
 

@@ -6,13 +6,13 @@ description: Encuentra aquí dónde y cómo configurar las cuestiones básicas.
 
 ## Zona horaria, Formato de Fecha, Moneda
 
-> _Encuéntralo en "Settings"  _-_ "General" _
+> _Encuéntralo en "Settings"_  - _"General"_&#x20;
 
 ![](<../../.gitbook/assets/image (55).png>)
 
 ## Horario de la tienda
 
-> _Encuéntralo en "Settings" _-_ "Location" _-_ "Opening hours"_&#x20;
+> _Encuéntralo en "Settings"_ - _"Location"_ - _"Opening hours"_&#x20;
 
 ![](<../../.gitbook/assets/image (51).png>)
 
@@ -23,7 +23,7 @@ Por ejemplo: lunes de 13.00am a 16.00pm y lunes de 20.00pm a 23.00pm.
 
 ## Dirección validada con Google
 
-> Encuéntralo en _"Settings" _-_ "Location" _-_ " Map Data Source" - "Google Maps" - "Store Address"_
+> Encuéntralo en _"Settings"_ - _"Location"_ - _" Map Data Source" - "Google Maps" - "Store Address"_
 
 ![](<../../.gitbook/assets/image (44).png>)
 

@@ -8,19 +8,19 @@ description: >-
 
 ## Proceso de instalación
 
-**1. **Conecta el cable de red a un puerto de tu router principal que tenga conexión a internet.
+**1.** Conecta el cable de red a un puerto de tu router principal que tenga conexión a internet.
 
-**2. **Conecta ese mismo cable de red a nuestro router en el puerto número 1.
+**2.** Conecta ese mismo cable de red a nuestro router en el puerto número 1.
 
 ![](<../.gitbook/assets/image (126).png>)
 
-**3. **Conecta el cable de alimentación del enchufe al puerto de energía.
+**3.** Conecta el cable de alimentación del enchufe al puerto de energía.
 
 ![](<../.gitbook/assets/image (163).png>)
 
-**4. **Espera unos minutos hasta que la luz del puerto 1 se ilumine de forma constante.
+**4.** Espera unos minutos hasta que la luz del puerto 1 se ilumine de forma constante.
 
-**5. **Comprueba su funcionamiento conectándote desde cualquier dispositivo.
+**5.** Comprueba su funcionamiento conectándote desde cualquier dispositivo.
 
 {% hint style="danger" %}
 A veces puede tardar varios minutos en coger la conexión.

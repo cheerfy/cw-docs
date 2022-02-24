@@ -119,7 +119,7 @@ Desde [admin.cheerfy.com](http://admin.cheerfy.com) , haz clic en el texto "¿Ol
 
 Comprueba que la página web tiene acceso permitido a la cámara y no la tiene bloqueada.
 
-**¿Cómo comprobar que la Web tiene los permisos de la cámara? **
+**¿Cómo comprobar que la Web tiene los permisos de la cámara?**&#x20;
 
 En Chrome:
 
