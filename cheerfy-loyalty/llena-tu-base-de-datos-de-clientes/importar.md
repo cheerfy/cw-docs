@@ -6,7 +6,7 @@ description: Descubre aquí cómo importar contactos directamente de otras bases
 
 ### Pasos a seguir
 
-**1. Descarga la plantilla de muestra para comprobar los campos necesarios haciendo clic aquí.**
+**1. Descarga la plantilla de muestra para comprobar los campos necesarios** [**haciendo clic aquí**](https://static.cheerfy.com/static-resources/customer\_import\_template\_1.2.csv)**.**
 
 **2. Explicamos aquí el significado y formato de cada campo:**
 
