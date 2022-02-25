@@ -6,10 +6,7 @@ description: Descubre aquí cómo importar contactos directamente de otras bases
 
 ### Pasos a seguir
 
-**1. Descarga la plantilla de muestra para comprobar los campos necesarios para la importación.**\
-
-
-![](<../../.gitbook/assets/image (168).png>)
+**1. Descarga la plantilla de muestra para comprobar los campos necesarios haciendo clic aquí.**
 
 **2. Explicamos aquí el significado y formato de cada campo:**
 
