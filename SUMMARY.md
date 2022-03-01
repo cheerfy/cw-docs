@@ -38,9 +38,7 @@
 
 ## Cheerfy EN <a href="#EN" id="EN"></a>
 
-***
-
-* [Welcome to Cheerfy!](master.md)
-* [Cheerfy Loyalty](cheerfy-loyalty/README.md)
-  * [Fill your Customer Database](<cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/README (1).md>)
-    * [Imports](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/imports.md)
+* [Welcome to Cheerfy!](EN/master.md)
+* [Cheerfy Loyalty](EN/cheerfy-loyalty/README.md)
+  * [Fill your Customer Database](EN/cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/README.md)
+    * [Imports](EN/cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/imports.md)

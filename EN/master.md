@@ -6,11 +6,11 @@ description: >-
 
 # Welcome to Cheerfy!
 
-{% content-ref url="cheerfy-shop-1/puesta-en-marcha/" %}
-[puesta-en-marcha](cheerfy-shop-1/puesta-en-marcha/)
+{% content-ref url="../cheerfy-shop-1/puesta-en-marcha/" %}
+[puesta-en-marcha](../cheerfy-shop-1/puesta-en-marcha/)
 {% endcontent-ref %}
 
-{% content-ref url="ES/cheerfy-loyalty/" %}
-[cheerfy-loyalty](ES/cheerfy-loyalty/)
+{% content-ref url="../ES/cheerfy-loyalty/" %}
+[cheerfy-loyalty](../ES/cheerfy-loyalty/)
 {% endcontent-ref %}
 
