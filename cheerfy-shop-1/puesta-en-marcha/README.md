@@ -40,10 +40,10 @@ description: Pincha en cada una de las acciones para más información.
 [crea-promociones.md](crea-promociones.md)
 {% endcontent-ref %}
 
-{% content-ref url="forma-a-tus-empleados.md" %}
-[forma-a-tus-empleados.md](forma-a-tus-empleados.md)
+{% content-ref url="../forma-a-tus-empleados.md" %}
+[forma-a-tus-empleados.md](../forma-a-tus-empleados.md)
 {% endcontent-ref %}
 
-{% content-ref url="optimiza-tu-tienda-online.md" %}
-[optimiza-tu-tienda-online.md](optimiza-tu-tienda-online.md)
+{% content-ref url="../optimiza-tu-tienda-online.md" %}
+[optimiza-tu-tienda-online.md](../optimiza-tu-tienda-online.md)
 {% endcontent-ref %}

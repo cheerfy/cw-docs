@@ -36,7 +36,7 @@ Un cliente solo puede realizar un pedido con vencimiento inmediato si su tienda 
 
 ### Activar y desactivar los tiempos de pedido
 
-En la pestaña "Order Timings" en la configuración del servicio, puedes habilitar y deshabilitar tanto los pedidos inmediatos \("Enable Immediate Orders"\) como los programados \("Enable Later Orders"\).
+En la pestaña "Order Timings" en la configuración del servicio, puedes habilitar y deshabilitar tanto los pedidos inmediatos ("Enable Immediate Orders") como los programados ("Enable Later Orders").
 
 ### First Order Offset
 
@@ -65,21 +65,21 @@ Para ayudarte a administrar mejor los pedidos y las expectativas de los clientes
 * Un-confirmed
 * Confirmed
 * Ready
-* On Route \(Solo para Delivery\)
+* On Route (Solo para Delivery)
 * Complete
 * Cancelled
 
 Tanto los tiempos de espera estimados como las actualizaciones de estado automatizadas están sincronizados. Esto evita cualquier confusión del cliente. Estos ajustes de tiempo son:
 
-| Setting \(minutes\) | Del Estado | Al Estado |
-| :--- | :--- | :--- |
-| Time till confirm | Unconfirmed | Confirmed |
-| Time till ready | Confirmed | Ready |
-| Time till on route \(solo para Delivery\) | Ready | On Route |
-| Time till complete | Ready | Complete |
+| Setting (minutes)                       | Del Estado  | Al Estado |
+| --------------------------------------- | ----------- | --------- |
+| Time till confirm                       | Unconfirmed | Confirmed |
+| Time till ready                         | Confirmed   | Ready     |
+| Time till on route (solo para Delivery) | Ready       | On Route  |
+| Time till complete                      | Ready       | Complete  |
 
 {% hint style="info" %}
-* Time till confirm es el tiempo que transcurre desde que se realiza un pedido hasta que se confirma. Establecer el tiempo hasta la confirmación en "0" dará como resultado la confirmación instantánea del pedido. 
+* Time till confirm es el tiempo que transcurre desde que se realiza un pedido hasta que se confirma. Establecer el tiempo hasta la confirmación en "0" dará como resultado la confirmación instantánea del pedido.&#x20;
 * Time till ready es el tiempo que le lleva preparar un pedido una vez confirmado.
 * Time till on route es el tiempo entre el momento en que se prepara un pedido y el momento en que el conductor de entrega lo recoge.
 * Time till complete es útil para marcar automáticamente los pedidos como completos.
@@ -104,7 +104,7 @@ Si no has agregado ningún valor para el time til confirm o time till ready, no 
 
 #### Cómo se calcula el tiempo de espera estimado para los pedidos de Delivery
 
-El tiempo de espera se calcula sumando el **time till confirm** + **time till ready** + **time till on route**. Luego, el **tiempo de conducción** se suma a eso. El tiempo de conducción se determina mediante un servicio externo que tiene en cuenta los datos del tráfico. Esto proporciona al cliente un tiempo de espera extremadamente preciso para que se entregue su pedido. 
+El tiempo de espera se calcula sumando el **time till confirm** + **time till ready** + **time till on route**. Luego, el **tiempo de conducción** se suma a eso. El tiempo de conducción se determina mediante un servicio externo que tiene en cuenta los datos del tráfico. Esto proporciona al cliente un tiempo de espera extremadamente preciso para que se entregue su pedido.&#x20;
 
 Si no ha agregado un valor para el **time till confirm**, **time till ready** o **time till on route**, no se calculará.
 
@@ -135,21 +135,21 @@ Para los ejemplos, asumimos que nuestra configuración de tiempo es la siguiente
 
 Un cliente realiza un pedido a las 7:00 pm para recogerlo o tomar en el local, para ya mismo en el que vence de inmediato.
 
-| Time | Action |
-| :--- | :--- |
-| 7:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed". |
-| 7:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos. |
+| Time   | Action                                                                                                                                                         |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed".                                                                                                    |
+| 7:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos.                                                                               |
 | 7:20pm | El estado se actualiza a "ready" porque el "time till ready" es de 10 minutos. Este también sería el tiempo estimado de preparación que se muestra al cliente. |
-| 8:20pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos. |
+| 8:20pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos.                                                                           |
 
 Un cliente realiza a las 6:00pm un pedido programado para recogerlo o tomar en el local a las 7:00pm:
 
-| Time | Action |
-| :--- | :--- |
-| 6:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed". |
-| 6:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos. |
+| Time   | Action                                                                                |
+| ------ | ------------------------------------------------------------------------------------- |
+| 6:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed".                           |
+| 6:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos.      |
 | 7:00pm | El estado se actualiza a "ready" porque es para cuando el cliente programó el pedido. |
-| 8:00pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos. |
+| 8:00pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos.  |
 
 #### Ejemplos de Delivery
 
@@ -157,65 +157,26 @@ Para este ejemplo, asumimos que el tiempo de conducción entre tu local y la dir
 
 Un cliente hace un pedido de Delivery a las 7:00pm para ya mismo
 
-| Time | Action |
-| :--- | :--- |
-| 7:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed". |
-| 7:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos. |
-| 7:20pm | El estado se actualiza a "ready" porque el "time till ready" es de 10 minutos. |
+| Time   | Action                                                                                                                                                 |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 7:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed".                                                                                            |
+| 7:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos.                                                                       |
+| 7:20pm | El estado se actualiza a "ready" porque el "time till ready" es de 10 minutos.                                                                         |
 | 7:30pm | El estado se actualiza a "on route" porque el "time till on route" es de 10 minutos. Esta también sería la hora a la que el rider recogería el pedido. |
-| 7:40pm | El pedido se habrá entregado al cliente ya que el tiempo de conducción es de 10 minutos. |
-| 8:40pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos. |
+| 7:40pm | El pedido se habrá entregado al cliente ya que el tiempo de conducción es de 10 minutos.                                                               |
+| 8:40pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos.                                                                   |
 
 Un cliente realiza a las 6:00pm un pedido programado para ser recibido a las 7:00pm:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Time</th>
-      <th style="text-align:left">Action</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">6:00pm</td>
-      <td style="text-align:left">Se realiza el pedido. El estado sigue siendo &quot;unconfirmed&quot;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">6:10pm</td>
-      <td style="text-align:left">Estado actualizado a &quot;confirmed&quot; porque el &quot;time till confirm&quot;
-        es de 10 minutos.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">6:40pm</td>
-      <td style="text-align:left">
-        <p>Status updated to ready because delivery time is 10 minutes and time till
-          on route is 10 minutes, which means that the order must be ready by this
-          time if it is going to reach your customer at 7:00pm</p>
-        <p>El estado se actualiza a &quot;ready&quot; porque el &quot;time till ready&quot;
-          es de 10 minutos y el tiempo de conducci&#xF3;n es de 10 minutos, lo que
-          significa que el pedido debe estar listo a esta hora para que pueda llegar
-          a las 7:00 p.m.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">6:50pm</td>
-      <td style="text-align:left">El estado se actualiza a &quot;on route&quot; porque el tiempo de conducci&#xF3;n
-        es de 10 minutos. Esta tambi&#xE9;n ser&#xED;a la hora a la que el rider
-        recoger&#xED;a el pedido.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">7:00pm</td>
-      <td style="text-align:left">El pedido se habr&#xE1; entregado al cliente.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">8:00pm</td>
-      <td style="text-align:left">El estado se actualiza a &quot;complete&quot; porque el &quot;time till
-        complete&quot; es de 60 minutos.</td>
-    </tr>
-  </tbody>
-</table>
+| Time   | Action                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 6:00pm | Se realiza el pedido. El estado sigue siendo "unconfirmed".                                                                                                                                                                                                                                                                                                                                                                                      |
+| 6:10pm | Estado actualizado a "confirmed" porque el "time till confirm" es de 10 minutos.                                                                                                                                                                                                                                                                                                                                                                 |
+| 6:40pm | <p>Status updated to ready because delivery time is 10 minutes and time till on route is 10 minutes, which means that the order must be ready by this time if it is going to reach your customer at 7:00pm</p><p>El estado se actualiza a "ready" porque el "time till ready" es de 10 minutos y el tiempo de conducción es de 10 minutos, lo que significa que el pedido debe estar listo a esta hora para que pueda llegar a las 7:00 p.m.</p> |
+| 6:50pm | El estado se actualiza a "on route" porque el tiempo de conducción es de 10 minutos. Esta también sería la hora a la que el rider recogería el pedido.                                                                                                                                                                                                                                                                                           |
+| 7:00pm | El pedido se habrá entregado al cliente.                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 8:00pm | El estado se actualiza a "complete" porque el "time till complete" es de 60 minutos.                                                                                                                                                                                                                                                                                                                                                             |
 
 {% hint style="info" %}
 Si tienes dudas sobre cómo funcionarán los tiempos de estado automático para tu escenario, piensa en cómo funcionaría lógicamente de una forma que tenga sentido para tu cliente y para tu restaurante. Así es como lo hemos diseñado para que funcione.
 {% endhint %}
-

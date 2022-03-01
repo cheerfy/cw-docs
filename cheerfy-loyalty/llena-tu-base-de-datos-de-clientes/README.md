@@ -1,12 +1,24 @@
 ---
 description: >-
-  Let's start at the beginning. The first step to address a loyalty plan is to
-  attract the largest number of customers.
+  Empecemos por el principio. El primer paso para abordar un plan de
+  fidelización es captar al mayor número de clientes.
 ---
 
-# Fill your Customer Database
+# Llena tu Base de Datos de Clientes
 
-{% content-ref url="imports.md" %}
-[imports.md](imports.md)
+{% content-ref url="integraciones-con-otras-plataformas.md" %}
+[integraciones-con-otras-plataformas.md](integraciones-con-otras-plataformas.md)
+{% endcontent-ref %}
+
+{% content-ref url="importar.md" %}
+[importar.md](importar.md)
+{% endcontent-ref %}
+
+{% content-ref url="configura-el-proceso-de-registro.md" %}
+[configura-el-proceso-de-registro.md](configura-el-proceso-de-registro.md)
+{% endcontent-ref %}
+
+{% content-ref url="maximiza-el-numero-de-registros.md" %}
+[maximiza-el-numero-de-registros.md](maximiza-el-numero-de-registros.md)
 {% endcontent-ref %}
 

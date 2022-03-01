@@ -31,13 +31,13 @@ En caso de no saber cuál elegir, te sugerimos el modelo Tera HW0002.
 
 Para mostrar una configuración, ejemplificamos con dicho modelo (Tera HW0002):
 
-![](<../../.gitbook/assets/image (167).png>)
+![](<../.gitbook/assets/image (167).png>)
 
 Es tan simple como ir escaneando los distintos códigos de barras en el orden indicado.&#x20;
 
 A medida que procedas con dichos escaneos, se irá configurando automáticamente.
 
-![](<../../.gitbook/assets/Tera-scanner-pagina1-A (1) (3).jpeg>) ![](<../../.gitbook/assets/Tera-scanner-pagina1-B (1).jpeg>) ![](<../../.gitbook/assets/Tera-scanner-pagina2-A (2).jpeg>) ![](<../../.gitbook/assets/Tera-scanner-pagina2-B (3).jpeg>) ![](<../../.gitbook/assets/Tera-scanner-pagina2-C (1).jpeg>)
+![](<../.gitbook/assets/Tera-scanner-pagina1-A (1) (3).jpeg>) ![](<../.gitbook/assets/Tera-scanner-pagina1-B (1).jpeg>) ![](<../.gitbook/assets/Tera-scanner-pagina2-A (2).jpeg>) ![](<../.gitbook/assets/Tera-scanner-pagina2-B (3).jpeg>) ![](<../.gitbook/assets/Tera-scanner-pagina2-C (1).jpeg>)
 
 ### ¿Cómo utilizo el escáner configurado para canjear la tarjeta de fidelización o los cupones?
 
@@ -47,13 +47,13 @@ A medida que procedas con dichos escaneos, se irá configurando automáticamente
 
 3\. Haz clic la rueda de ajustes de la esquina superior derecha: "Loyalty" - "Escáner".
 
-![](<../../.gitbook/assets/image (165).png>)
+![](<../.gitbook/assets/image (165).png>)
 
 4\. Elige si deseas que cada escaneo sea una única estampa o punto, o si en función de la cantidad del ticket, se le concederán al cliente tantas estampas o puntos como correspondan.
 
 5\. Elige la opción "Modo lector de códigos" y dale a "Aceptar".
 
-![](<../../.gitbook/assets/image (167) (1).png>)
+![](<../.gitbook/assets/image (167) (1).png>)
 
 {% hint style="warning" %}
 En caso de que hayas elegido la opción "Introduce el total del ticket para calcular las estampas puntos", cuando vayas a canjear la tarjeta de fidelización, deberás indicar la cantidad del ticket en el dispositivo al que el lector esté conectado.
@@ -75,7 +75,7 @@ Podrás utilizar cualquier dispositivo iOS o Android que contenga una cámara co
 
 5\. Haz clic la rueda de ajustes de la esquina superior derecha: "Loyalty" - "Escáner".
 
-![](<../../.gitbook/assets/image (166).png>)
+![](<../.gitbook/assets/image (166).png>)
 
 {% hint style="warning" %}
 Si no ves este botón, prueba a tumbar el dispositivo, puede que la Web no sea "responsive" con ese dispositivo y no lo veas.
@@ -85,7 +85,7 @@ Si no ves este botón, prueba a tumbar el dispositivo, puede que la Web no sea "
 
 7\. Elige la opción "Modo cámara".
 
-![](<../../.gitbook/assets/image (169) (1).png>)
+![](<../.gitbook/assets/image (169) (1).png>)
 
 8\. Pop-up Navegador: Permitir cámara.
 

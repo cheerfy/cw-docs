@@ -9,7 +9,7 @@ description: >-
 
 ## Puntos de contacto de tu restaurante con el cliente
 
-![](<../../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (109).png>)
 
 Antes de conocer los tipos de mensajes que puedes configurar, es importante entender los diferentes momentos en los que puedes impactar al cliente:
 
@@ -52,7 +52,7 @@ Algunos ejemplos que ilustran este momento son: cuando un cliente lleva X tiempo
 
 Ahora que ya ubicamos los diversos momentos en los que podemos imactar al cliente de forma automática, es momento de concretar los distintos tipos de mensajes con los que abordaremos todos esos momentos:
 
-![](<../../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (111).png>)
 
 **Mensajes automáticos**: se enviarán cuando el cliente cumpla con las condiciones configuradas.
 

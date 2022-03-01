@@ -19,19 +19,19 @@ description: >-
 5. Shop
 6. Tarjeta de Fidelización
 
-![](<../../.gitbook/assets/image (155).png>)
+![](<../.gitbook/assets/image (155).png>)
 
 ### Elige el periodo de tiempo que deseas analizar
 
-![](<../../.gitbook/assets/image (160).png>)
+![](<../.gitbook/assets/image (160).png>)
 
 ### Elige la forma en la que deseas ver la información
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../.gitbook/assets/image (102).png>)
 
 ### Filtra la información que deseas analizar
 
-![](<../../.gitbook/assets/image (137).png>)
+![](<../.gitbook/assets/image (137).png>)
 
 ## Informe de Actividad
 
@@ -44,7 +44,7 @@ description: >-
 * Clientes activos
 * Visitas por cliente
 
-![](<../../.gitbook/assets/image (136).png>)
+![](<../.gitbook/assets/image (136).png>)
 
 ## Informe de Valoraciones
 
@@ -58,7 +58,7 @@ description: >-
 * Promotores Vs Detractores
 * NPS de cada una de las preguntas de la encuesta
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../.gitbook/assets/image (107).png>)
 
 ## Informe de Perfil
 
@@ -72,7 +72,7 @@ description: >-
 * Perfiles por edad
 * Perfiles por idioma
 
-![](<../../.gitbook/assets/image (122).png>)
+![](<../.gitbook/assets/image (122).png>)
 
 ## Informe de Fidelización
 
@@ -87,7 +87,7 @@ description: >-
 * Fidelidad en función del género o idioma
 * Fidelidad en función de cada localización
 
-![](<../../.gitbook/assets/image (149).png>)
+![](<../.gitbook/assets/image (149).png>)
 
 ## Informe de Cheerfy Shop
 
@@ -102,7 +102,7 @@ description: >-
 * Ranking de platos más pedidos
 * Ranking de localizaciones
 
-![](<../../.gitbook/assets/image (131).png>)
+![](<../.gitbook/assets/image (131).png>)
 
 ## Informe de la Tarjeta de Fidelización
 
@@ -116,4 +116,4 @@ description: >-
 * Media de gasto por tarjeta y rango
 * Media de gasto por rango y canal
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../.gitbook/assets/image (94).png>)

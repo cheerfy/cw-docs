@@ -20,19 +20,19 @@ description: Encuentra aquí cómo dirigir el tráfico de tu web a tu tienda onl
 
 > Web: Ejemplo en formato Desktop.
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](<../../.gitbook/assets/image (33).png>)
 
 > Web: Ejemplo en formato Mobile.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](<../../.gitbook/assets/image (40).png>)
 
 > Landing Page: Ejemplo en formato Desktop.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 > Landing Page: Ejemplo e formato Mobile.
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## Pedidos en Sala
 
@@ -44,11 +44,11 @@ Añade un código QR con un enlace a tu tienda online.
 
 1. Ve a "Settings" - "Services" - "Dine-in".
 2. Dale a "Enabled" para activar el servicio en Sala.
-3. Ve a "Tables" y añade tantas mesas como necesites. 
+3. Ve a "Tables" y añade tantas mesas como necesites.&#x20;
 4. Configura el resto del servicio de la misma forma que el resto.
 5. Dale a "Save".
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](<../../.gitbook/assets/image (87).png>)
 
 **Experiencia de cliente**
 
@@ -56,5 +56,4 @@ Añade un código QR con un enlace a tu tienda online.
 2. El cliente, al pedir, elije la mesa correspondiente.
 3. El cliente completa su pedido.
 
-![](../../.gitbook/assets/image%20%2879%29.png)
-
+![](<../../.gitbook/assets/image (79).png>)

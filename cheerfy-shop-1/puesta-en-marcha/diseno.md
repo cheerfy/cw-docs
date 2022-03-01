@@ -14,20 +14,19 @@ Elije tus colores corporativos, tipo de letra, imágenes y demás aspectos perso
 
 * Logo - 300 pixels de ancho por 100 pixels de alto
 * Header - 1920 pixels de ancho por 500 de alto
-* Logo icon - 350 por 350 pixels 
+* Logo icon - 350 por 350 pixels&#x20;
 * Imágenes de los platos - 600 pixels de ancho por 400 pixels de alto
 
 ## Ejemplos
 
 > Formato Desktop
 
-![Demo de una Cheerfy Shop](../../.gitbook/assets/image%20%2822%29.png)
+![Demo de una Cheerfy Shop](<../../.gitbook/assets/image (22).png>)
 
-![Ejemplo real de Grosso Napoletano](../../.gitbook/assets/image%20%2823%29.png)
+![Ejemplo real de Grosso Napoletano](<../../.gitbook/assets/image (23).png>)
 
 > Formato móvil
 
 ![Demo de una Cheerfy Shop](../../.gitbook/assets/whatsapp-image-2021-04-09-at-16.37.21-1-.jpeg)
 
 ![Ejemplo real de Grosso Napoletano](../../.gitbook/assets/whatsapp-image-2021-04-09-at-16.37.21.jpeg)
-

@@ -17,7 +17,7 @@ description: >-
 Si un cliente desease cancelar su pedido deberá contactar con el local (dispone en los T\&C’s de vuestro correo para contactaros) y será el local quien deba cancelarlo.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../.gitbook/assets/image (74).png>)
 
 ## Devolución de Pedidos
 
@@ -27,7 +27,7 @@ Si un cliente desease cancelar su pedido deberá contactar con el local (dispone
 4. Pulsar en la opción "Refund Stripe Payment". (Esto reembolsará todo el importe).
 5. Se puede hacer un reembolso parcial desde la cuenta de Stripe, seleccionando el pedido e introduciendo la cantidad que se desea devolver.
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../.gitbook/assets/image (83).png>)
 
 ### Devolución de Pedididos Parciales
 
@@ -39,7 +39,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 2. Haz click en el botón de arriba a la derecha "Reembolsar".
 3. Se nos abrirá una ventana donde podemos seleccionar el importe del reembolso y el motivo.
 
-![](<../../.gitbook/assets/image (86).png>)
+![](<../.gitbook/assets/image (86).png>)
 
 ## Retrasar Estimación de Pedidos
 
@@ -47,7 +47,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 2. Selecciona el pedido al que deseas retrasar la estimación de preparación, y pulsa el botón "Details".
 3. Pulsa el botón "Set. Est. Ready Time" para añadir los minutos necesarios en la estimación de preparación del pedido.
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../.gitbook/assets/image (77).png>)
 
 ## Gestión del Stock y Disponibilidad de Productos
 
@@ -66,7 +66,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 5. "Delete" = Borrar producto.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 ## Crear Menús / Categorías / Platos
 
@@ -84,7 +84,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 4. &#x20;"Re-arrange" = Ordenar.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../.gitbook/assets/image (82).png>)
 
 ## Editar Menús
 
@@ -102,7 +102,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 4. "Subtitle" = Subtítulo. (Recomendamos usar este campo para añadir las descripciones de los platos).
 {% endhint %}
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../.gitbook/assets/image (76).png>)
 
 ## Invitar Empleados
 
@@ -110,4 +110,4 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 2. Haz click en "Create Staff".
 3. Asigna las credenciales y permisos del empleado en cuestión.
 
-![](<../../.gitbook/assets/image (72).png>)
+![](<../.gitbook/assets/image (72).png>)

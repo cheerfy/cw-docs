@@ -1,4 +1,4 @@
-# Choose your language
+# Idioma / Language
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

@@ -64,7 +64,7 @@ Añade tu Pixel de Facebook a tu tienda online para rastrear visitantes y analiz
 
     \</noscript>\<!-- End Facebook Pixel Code -->
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../.gitbook/assets/image (92).png>)
 
 {% hint style="danger" %}
 Recuerda no borrar los scripts que ya estuviesen añadidos. Añádelos debajo de los que ya estaban.
@@ -106,7 +106,7 @@ Añade el seguimiento de Google Analytics a tu tienda online para rastrear a tus
     \<!-- End Google Tag Manager (noscript) -->\
 
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../.gitbook/assets/image (93).png>)
 
 {% hint style="danger" %}
 Si la propiedad fue creada reciéntemente, se requieren 24 horas para que Google Analytics comience a reportar datos

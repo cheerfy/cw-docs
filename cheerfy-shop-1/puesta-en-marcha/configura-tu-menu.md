@@ -22,7 +22,7 @@ Es probable que solo necesites un menú. Múltiples menús son útiles si cierto
 
 ## Ejemplo de la estructura de un menú
 
-```text
+```
 - Menu: Menú principal
 -- Category: Pizzas
 ---- Dish: Ham & Cheese
@@ -41,7 +41,7 @@ Es probable que solo necesites un menú. Múltiples menús son útiles si cierto
 
 Muchas tiendas tienen un solo menú principal que siempre está disponible. Otras pueden tener un menú para el desayuno y la cena o un menú solo para un determinado servicio. Necesitarás al menos un menú para que tu tienda online funcione.
 
-La disponibilidad del menú puede depender de diferentes condiciones, como los tipos de pedidos \(Delivery o Take Away\), los tiempos de los pedidos "order-timings" \(por ejemplo, solo pedidos por adelantado\). También se pueden restringir a determinados días y horarios.
+La disponibilidad del menú puede depender de diferentes condiciones, como los tipos de pedidos (Delivery o Take Away), los tiempos de los pedidos "order-timings" (por ejemplo, solo pedidos por adelantado). También se pueden restringir a determinados días y horarios.
 
 {% hint style="info" %}
 Si solo tienes un menú disponible, no es necesario que le impongas restricciones. El menú funcionará de acuerdo a los ajustes generles. Solo es necesario restringir un menú a determinadas condiciones si tiene varios menús distintos.
@@ -128,7 +128,7 @@ Para que tu menú se muestre en tu tienda online, asegúrate de agregarle al men
 
 ### **Las imágenes son demasiado grandes**
 
-Tamaño obligatorio del archivo &lt;1MB, idealmente rectangulares y con el plato en el centro de la imagen, con un tamaño recomendado de imagen de 16:9 para las fotos del menú, y de 19:5 para el header.
+Tamaño obligatorio del archivo <1MB, idealmente rectangulares y con el plato en el centro de la imagen, con un tamaño recomendado de imagen de 16:9 para las fotos del menú, y de 19:5 para el header.
 
 Todas las fotos deben de tener un tamaño máximo de 1MB. Te recomendamos que uses [esta web](https://bulkresizephotos.com/es) para comprimir tus fotos, cargando tus fotos primero y luego eligiendo la opción "Tamaño del archivo" en el menú de la izquierda, para comprimir tus fotos a 980 KBs o menos.
 
@@ -146,4 +146,3 @@ Tenemos dos opciones:
 
 1. Usar el campo “Description” para añadir los alérgenos de cada plato
 2. Añadir un enlace debajo del header que apunte directamente a una carta/documento de alérgenos
-

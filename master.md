@@ -6,8 +6,8 @@ description: >-
 
 # Welcome to Cheerfy!
 
-{% content-ref url="ES/puesta-en-marcha/" %}
-[puesta-en-marcha](ES/puesta-en-marcha/)
+{% content-ref url="cheerfy-shop-1/puesta-en-marcha/" %}
+[puesta-en-marcha](cheerfy-shop-1/puesta-en-marcha/)
 {% endcontent-ref %}
 
 {% content-ref url="ES/cheerfy-loyalty/" %}
