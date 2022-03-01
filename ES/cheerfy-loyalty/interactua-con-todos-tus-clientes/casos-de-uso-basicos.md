@@ -28,15 +28,15 @@ Este caso de uso es especialmente importante por dos motivos:
 
 **1. Contexto:** asegúrate de que el tipo de mensaje sea en llegada así como de elegir en qué localizaciones quieres enviar el mensaje.&#x20;
 
-![](<../../.gitbook/assets/image (120).png>)
+![](<../../../.gitbook/assets/image (120).png>)
 
 **2. Contenido:** asegúrate de adaptar el contenido y narrativa de tu mensaje a tus necesidades en función de lo que deseas transmitir. Acuérdate también de todos los objetos incrustables que puedes utilizar.
 
-![](<../../.gitbook/assets/image (147).png>)
+![](<../../../.gitbook/assets/image (147).png>)
 
 **3. Audiencia:** asegúrate de que el filtro de "Número de visitas" es 1, lo que significa que el mensaje se enviará solo en la primera visita.
 
-![](<../../.gitbook/assets/image (95).png>)
+![](<../../../.gitbook/assets/image (95).png>)
 
 {% hint style="info" %}
 En el apartado de "Cómo configurar un mensaje" vimos el resto de las opciones de las que dispones en detalle. Si deseas editar algún parámetro más, vuelve para recordar cómo se hace.
@@ -78,7 +78,7 @@ Son muchas las virtudes de este caso de uso:
 
 4. Te permite multiplicar tus reviews positivas en Google ya que tienes la capacidad de derivar autmáticamente tu pérfil a los clientes que te hayan dejado una valoración positiva. Con solo un clic más podrán dejar su valoración.
 
-![](../../.gitbook/assets/valoracionsss.gif)
+![](../../../.gitbook/assets/valoracionsss.gif)
 
 ### ¿Cómo lo configuramos?
 
@@ -86,17 +86,17 @@ Son muchas las virtudes de este caso de uso:
 
 Ejemplo: cada 10 visitas o pedidos en tu tienda online.
 
-![](<../../.gitbook/assets/image (133).png>)
+![](<../../../.gitbook/assets/image (133).png>)
 
 **2. Contenido:** la narrativa y el tono con el que le pides su valoración a un cliente es clave para elevar el ratio de respuestas.
 
 Compartimos aquí un ejemplo:
 
-![](<../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (143).png>)
 
 **3. Audiencia:** un filtro que solemos utilizar es el de "Duración de última visita". Se hace para los casos en los que el restaurante este utilizando el Wi-Fi. Se indica que se envíe a aquellos clientes cuya duración de la visita haya sido de 2 minutos o más. El objetivo es impactar a clientes que te hayan visitado genuinamente, y no a alguien que haya pasado por delante durante un momento.
 
-![](<../../.gitbook/assets/image (157).png>)
+![](<../../../.gitbook/assets/image (157).png>)
 
 **4. Preguntas de la encuesta:** para determinar las preguntas que queréis implementar, deberéis poneros en contacto con nosotros a través de soporte@cheerfy.com.
 
@@ -118,11 +118,11 @@ La configuración es exactamente la misma que en el resto de mensajes pero con d
 
 2. **Adelanto de envío**: elije cuántos días antes vas a impactar a tus clientes en su cumpleaños. Normalmente recomendamos que ese periodo sea de 7 días. Se trata de una cantidad equilibrada entre cercanía a la fecha en cuestión, y flexibilidad del cliente para organizar su celebración con vosotros.
 
-![](<../../.gitbook/assets/image (162).png>)
+![](<../../../.gitbook/assets/image (162).png>)
 
 La narrativa, como siempre, también será clave. Aquí un ejemplo:
 
-![](<../../.gitbook/assets/image (106).png>)
+![](<../../../.gitbook/assets/image (106).png>)
 
 ## Mensaje de "te echamos de menos"
 
@@ -144,11 +144,11 @@ Se trata de un mensaje en salida. Se enviará después del tiempo que consideres
 
 **1. Contexto:** asegúrate de definir correctamente el tiempo de retardo desde su último pedido o visita.
 
-![](<../../.gitbook/assets/image (101).png>)
+![](<../../../.gitbook/assets/image (101).png>)
 
 **2. Contenido**: como siempre, la narrativa deberá ser acorde al lenguaje y valores que pretendes transmitir con tu marca.
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../../.gitbook/assets/image (123).png>)
 
 **3.  Audiencia.**
 
@@ -174,7 +174,7 @@ Por lo tento, en este caso el proceso sería:
 Siguiendo con el ejemplo en el que envíamos 30 días más tarde, en la fase de audiencia habría que indicar que han tenido que pasar 29 días desde su última visita o último pedido.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (150).png>)
+![](<../../../.gitbook/assets/image (150).png>)
 
 {% content-ref url="como-configurar-un-mensaje.md" %}
 [como-configurar-un-mensaje.md](como-configurar-un-mensaje.md)

@@ -8,7 +8,7 @@ description: >-
 
 ## Informes disponibles
 
-> Pincha en "Informes" y selecciona el que desees analizar.
+> Pincha en "Informes" y selecciona el que desees analizar.&#x20;
 
 **Debajo encontrarás el detalle de cada uno:**
 
@@ -19,19 +19,19 @@ description: >-
 5. Shop
 6. Tarjeta de Fidelización
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](<../../.gitbook/assets/image (155).png>)
 
 ### Elige el periodo de tiempo que deseas analizar
 
-![](../.gitbook/assets/image%20%28160%29.png)
+![](<../../.gitbook/assets/image (160).png>)
 
 ### Elige la forma en la que deseas ver la información
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](<../../.gitbook/assets/image (102).png>)
 
 ### Filtra la información que deseas analizar
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](<../../.gitbook/assets/image (137).png>)
 
 ## Informe de Actividad
 
@@ -44,7 +44,7 @@ description: >-
 * Clientes activos
 * Visitas por cliente
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](<../../.gitbook/assets/image (136).png>)
 
 ## Informe de Valoraciones
 
@@ -58,7 +58,7 @@ description: >-
 * Promotores Vs Detractores
 * NPS de cada una de las preguntas de la encuesta
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](<../../.gitbook/assets/image (107).png>)
 
 ## Informe de Perfil
 
@@ -72,7 +72,7 @@ description: >-
 * Perfiles por edad
 * Perfiles por idioma
 
-![](../.gitbook/assets/image%20%28122%29.png)
+![](<../../.gitbook/assets/image (122).png>)
 
 ## Informe de Fidelización
 
@@ -87,7 +87,7 @@ description: >-
 * Fidelidad en función del género o idioma
 * Fidelidad en función de cada localización
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](<../../.gitbook/assets/image (149).png>)
 
 ## Informe de Cheerfy Shop
 
@@ -96,13 +96,13 @@ description: >-
 **Resumen de qué encontrarás aquí:**
 
 * Ventas totales
-* Ventas en cada canal \(Domicilio, Recoger, Local\)
+* Ventas en cada canal (Domicilio, Recoger, Local)
 * Ticket medio
 * Método de pago
 * Ranking de platos más pedidos
 * Ranking de localizaciones
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](<../../.gitbook/assets/image (131).png>)
 
 ## Informe de la Tarjeta de Fidelización
 
@@ -116,5 +116,4 @@ description: >-
 * Media de gasto por tarjeta y rango
 * Media de gasto por rango y canal
 
-![](../.gitbook/assets/image%20%2894%29.png)
-
+![](<../../.gitbook/assets/image (94).png>)

@@ -11,11 +11,11 @@ description: >-
 
 Lo primero será ir a "Mensajes" - "Crear".
 
-![](<../../.gitbook/assets/image (98).png>)
+![](<../../../.gitbook/assets/image (98).png>)
 
 Si quieres basarte en un mensaje existente, puedes copiar desde un mensaje ya creado para configurar un nuevo mensaje.&#x20;
 
-![](<../../.gitbook/assets/image (164).png>)
+![](<../../../.gitbook/assets/image (164).png>)
 
 En ambos casos, habrás aparecido en página como la que mostramos, y que divide el proceso de creación en tres fases:
 
@@ -23,17 +23,17 @@ En ambos casos, habrás aparecido en página como la que mostramos, y que divide
 2. **Contenido**: definiremos qué contenido enviar.
 3. **Audiencia**: definiremos a quién enviar el mensaje dentro de tu base de datos.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (97).png>)
 
 ## Parámetros configurables en la fase de Contexto
 
 1\. **Envío**: elige el tipo de mensaje que deseas.
 
-![](<../../.gitbook/assets/image (132).png>)
+![](<../../../.gitbook/assets/image (132).png>)
 
 2\. **Plan de Envío**: elige qué días y a qué horas enviar el mensaje.
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../../.gitbook/assets/image (100).png>)
 
 {% hint style="info" %}
 Pincha en "Plan de Envío". A la derecha se abrirán las opciones.&#x20;
@@ -45,7 +45,7 @@ Pincha en "Plan de Envío". A la derecha se abrirán las opciones.&#x20;
 
 3\. **Retardo**: puedes retardar el envío del mensaje.
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../../.gitbook/assets/image (108).png>)
 
 {% hint style="info" %}
 &#x20;Ejemplo añadiendo un retardo de 10 minutos para cada tipo de mensaje:
@@ -59,15 +59,15 @@ Pincha en "Plan de Envío". A la derecha se abrirán las opciones.&#x20;
 
 En el caso del mensaje de cumpleaños lo que te preguntará es si quieres adelantar el envío. En caso afirmativo podrás indicar cuántos días adelantar el envío.
 
-![](<../../.gitbook/assets/image (130).png>)
+![](<../../../.gitbook/assets/image (130).png>)
 
 4\. **Frecuencia**: elige cada cuánto enviar el mensaje. Por ejemplo, puedes querer enviarlo cada visita o cada 10 visitas.
 
-![](<../../.gitbook/assets/image (141).png>)
+![](<../../../.gitbook/assets/image (141).png>)
 
 5\. **Definir localizaciones**: elige en qué localizaciones enviar el mensaje. Puedes querer enviarlo a nivel organización, o solo en una o varias de tus localizaciones.
 
-![](<../../.gitbook/assets/image (154).png>)
+![](<../../../.gitbook/assets/image (154).png>)
 
 ### Aspectos configurables en la fase de Contenido
 
@@ -81,11 +81,11 @@ En el caso del mensaje de cumpleaños lo que te preguntará es si quieres adelan
 Relación de aspecto de la foto: 16:9 (ej. 1024px x 576 px).
 {% endhint %}
 
-![](<../../.gitbook/assets/image (103).png>)
+![](<../../../.gitbook/assets/image (103).png>)
 
 4\. **Resumen**: se trata del contenido como tal.
 
-![](<../../.gitbook/assets/image (115).png>)
+![](<../../../.gitbook/assets/image (115).png>)
 
 Objetos incrustables:
 
@@ -97,7 +97,7 @@ Objetos incrustables:
 
 Aquí un ejemplo del mismo mensaje anterior con los objetos incrustados:
 
-![](<../../.gitbook/assets/image (139).png>)
+![](<../../../.gitbook/assets/image (139).png>)
 
 {% content-ref url="funcionamiento-de-los-cupones.md" %}
 [funcionamiento-de-los-cupones.md](funcionamiento-de-los-cupones.md)
@@ -136,13 +136,13 @@ Los puntos 10 y 11 se entenderán mejor en el punto donde detallamos todo lo nec
 3. Idioma.
 4. Cumpleaños.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../../.gitbook/assets/image (129).png>)
 
 Ejemplificamos desgranando en detalle uno de estos parámetros. Todos funcionan igual. Para ello filtraremos por "Número de visitas".
 
 Lo primero es elegir alguna de las opciones que nos ofrece.
 
-![](<../../.gitbook/assets/image (159).png>)
+![](<../../../.gitbook/assets/image (159).png>)
 
 ¿Qué significa cada una de ellas?
 
@@ -150,7 +150,7 @@ Lo primero es elegir alguna de las opciones que nos ofrece.
 
 **2. Número fijo de visitas**: significa que se enviará únicamente en la visita seleccionada.
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../../.gitbook/assets/image (134).png>)
 
 **3. Rango de visitas**: significa que se enviará a los clientes que estén dentro del rango seleccionado.&#x20;
 
@@ -162,7 +162,7 @@ Ejemplos:&#x20;
 * También podes poner desde 5 visitas hasta 10, lo que querría decir que se enviaria a todos aquellos que tengan 5, 6, 7, 8, 9 o 10 visitas.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../../.gitbook/assets/image (146).png>)
 
 ### Últimos tres pasos
 
@@ -180,7 +180,7 @@ Con el objetivo de no convertirnos en correo no deseado, contamos con algoritmos
 Por eso, si un cliente, cumple con las condiciones para que se le envíen dos mensajes a la vez, solo se le enviará el que más prioridad tenga.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (142).png>)
+![](<../../../.gitbook/assets/image (142).png>)
 
 3\. Una vez has comprobado que tanto el contenido como el resto de parámetros está como deseas, es el momento de **activar el mensaje**.
 

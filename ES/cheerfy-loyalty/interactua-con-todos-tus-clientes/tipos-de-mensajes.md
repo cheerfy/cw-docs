@@ -9,7 +9,7 @@ description: >-
 
 ## Puntos de contacto de tu restaurante con el cliente
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](<../../../.gitbook/assets/image (109).png>)
 
 Antes de conocer los tipos de mensajes que puedes configurar, es importante entender los diferentes momentos en los que puedes impactar al cliente:
 
@@ -22,7 +22,7 @@ Acciones encaminadas a generar tráfico en el restaurante:
 
 ### Durante el servicio
 
-Acciones encaminadas a interactuar con el cliente durante su experiencia en el restaurante o tienda online. 
+Acciones encaminadas a interactuar con el cliente durante su experiencia en el restaurante o tienda online.&#x20;
 
 {% hint style="info" %}
 Recordamos que si estás utilizando el Wi-Fi de tu local para registrar clientes, estos se conectarán automáticamente cuando vuelvan a visitarte. Lo que te permitirá detectar cuándo entran o cuándo salen.
@@ -30,7 +30,7 @@ Recordamos que si estás utilizando el Wi-Fi de tu local para registrar clientes
 
 A su vez podemos subdividir esta etapa en tres momentos diferenciados:
 
-#### 1. Momento de la llegada: 
+#### 1. Momento de la llegada:&#x20;
 
 Cuando un cliente entra por la puerta de tu restaurante, y por tanto se auto-conecta al Wi-Fi. También cuando acaba de realizar una compra en tu tiena online.
 
@@ -52,7 +52,7 @@ Algunos ejemplos que ilustran este momento son: cuando un cliente lleva X tiempo
 
 Ahora que ya ubicamos los diversos momentos en los que podemos imactar al cliente de forma automática, es momento de concretar los distintos tipos de mensajes con los que abordaremos todos esos momentos:
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](<../../../.gitbook/assets/image (111).png>)
 
 **Mensajes automáticos**: se enviarán cuando el cliente cumpla con las condiciones configuradas.
 
@@ -71,7 +71,7 @@ Más adelante veremos en detalle cómo configurar un mensaje. Puedes enviar un m
 
 ### Mensajes en transacción
 
-Mensajes que se envían cuando el cliente ha completado una transacción \(pago en tu tienda online o escaneo de la tarjeta de fidelización en tu local físico\). Vía SMS o Email.
+Mensajes que se envían cuando el cliente ha completado una transacción (pago en tu tienda online o escaneo de la tarjeta de fidelización en tu local físico). Vía SMS o Email.
 
 {% hint style="warning" %}
 Para que funcionen en tu local físico, deberás utilizar Cheerfy Pay o poner en marcha la tarjeta de fidelización.
@@ -82,11 +82,11 @@ Para que funcionen en tu local físico, deberás utilizar Cheerfy Pay o poner en
 Mensajes que se envían cuando ha pasado X tiempo la realización del pedido en tu tienda online, o cuando el cliente sale del local, y por tanto se desconecta del Wi-Fi. Vía SMS o Email.
 
 {% hint style="info" %}
-Para que una visita se de por finalizada, deberán pasar 40 minutos desde que el cliente se desconecte del Wi-Fi. 
+Para que una visita se de por finalizada, deberán pasar 40 minutos desde que el cliente se desconecte del Wi-Fi.&#x20;
 
 Esto se debe a que un cliente podría desconectarse involuntariamente al ir al baño o salir un momento del local.
 
-En el mundo online, un mensaje de este tipo \(por ejemplo, pedir valoración de la experiencia\), también se enviaría, como mínimo, 40 minutos después del pago.
+En el mundo online, un mensaje de este tipo (por ejemplo, pedir valoración de la experiencia), también se enviaría, como mínimo, 40 minutos después del pago.
 
 En los detalles de cómo configurar el mensaje veremos que si lo deseas, puedes retrasar el envío todo lo que consideres.
 {% endhint %}
@@ -107,5 +107,6 @@ Impacta a tus clientes el día y a la hora que desees.
 
 En "Cómo configurar un mensaje" te mostramos todos los detalles.
 
-{% page-ref page="como-configurar-un-mensaje.md" %}
-
+{% content-ref url="como-configurar-un-mensaje.md" %}
+[como-configurar-un-mensaje.md](como-configurar-un-mensaje.md)
+{% endcontent-ref %}

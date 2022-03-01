@@ -16,11 +16,11 @@ Independientemente de la vía que se utilice, el proceso de registro será el mi
 
 Ve a "Ajustes" - "Loyalty" - "Registro de Clientes".&#x20;
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../../../../.gitbook/assets/image (158).png>)
 
 Para encontrar el enlace de registro selecciona la localización que corresponda y haz clic en "Acceder al portal".&#x20;
 
-![](<../../.gitbook/assets/image (161).png>)
+![](<../../../../.gitbook/assets/image (161).png>)
 
 #### 2. A través de un código QR.
 
@@ -28,7 +28,7 @@ Para encontrar el enlace de registro selecciona la localización que corresponda
 Utiliza el mismo enlace anterior para generar el código QR. Utiliza este código QR en tu establecimiento incrustándolo en una señalización física.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../../../.gitbook/assets/image (96).png>)
 
 **¿Cómo generar un código QR?**
 
@@ -42,7 +42,7 @@ Utiliza el mismo enlace anterior para generar el código QR. Utiliza este códig
 
 5\. Si utilizas el generador recomendado, incluye el enlace de registro de la localización en "Tu URL" y configura el diseño como desees.
 
-![](<../../.gitbook/assets/image (153).png>)
+![](<../../../../.gitbook/assets/image (153).png>)
 
 #### 3. A través del Wi-Fi.
 
@@ -54,8 +54,8 @@ Los clientes que se conecten al Wi-Fi se conectarán automáticamente en futuras
 
 Los clientes que se conecten al Wi-Fi accederán al mismo proceso de registro ya mencionado.
 
-![](<../../.gitbook/assets/image (156).png>)
+![](<../../../../.gitbook/assets/image (156).png>)
 
-{% content-ref url="../instalacion-wi-fi.md" %}
-[instalacion-wi-fi.md](../instalacion-wi-fi.md)
+{% content-ref url="../../instalacion-wi-fi.md" %}
+[instalacion-wi-fi.md](../../instalacion-wi-fi.md)
 {% endcontent-ref %}

@@ -51,11 +51,11 @@ Un ciclo es el número de puntos o estampas necesarias para completar una tarjet
 
 * **Ejemplo de estructura de un plan de fidelización estándar:**
 
-![](<../../.gitbook/assets/image (127).png>)
+![](<../../../.gitbook/assets/image (127).png>)
 
 * **Ejemplo de estructua de un plan de fidelización en forma de pirámide por niveles:**
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../../.gitbook/assets/image (104).png>)
 
 ## Fase 2: Temática
 
@@ -67,7 +67,7 @@ La forma en la que le hables a tus clientes es determinante para conseguir conec
 
 **Tu historia es relevante, le aporta valor real al producto, y te ayuda a diferenciarte**.
 
-![](<../../.gitbook/assets/image (105).png>)
+![](<../../../.gitbook/assets/image (105).png>)
 
 Compartimos [**aquí algunos ejemplos**](https://www.es.cheerfy.com/academy/blog/ejemplos-de-storytelling-para-tu-plan-de-fidelizacin) **** de cómo lo hacen algunos de nuestros clientes.
 
@@ -82,7 +82,7 @@ En esta fase aterrizaremos todo lo definido anteriormente. A su vez, la dividere
 
 Haz clic en la rueda de ajustes de la esquina superior derecha y ve a "Loyalty" - "Tarjeta de Fidelización".
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../../.gitbook/assets/image (116).png>)
 
 #### Parámetros configurables
 
@@ -102,7 +102,7 @@ Ejemplo: si el primero nivel dura 8 estamas, en el segundo nivel tendrás que in
 
 Para crear un nivel nuevo ve al desplegable mostrado en la foto y haz clic en "Crear nuevo nivel". Se creará un nivel exactamente igual que el nivel anterior para que sobre ese hagas los cambios oportunos.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](<../../../.gitbook/assets/image (125).png>)
 
 4\. **Reglas de conversión**: indica cada cuántos € cuántas estampas o puntos das.
 
@@ -140,7 +140,7 @@ Si el total son 8, solo le quedarían 6 para llegar a completar la tarjeta.
 
 13\. **Denominación del campo "nivel"**: llama al nivel de la forma que consideres. Combina con el primer parámetro "Nombre del nivel". Revisa como queda para iOS, Android y WEB.
 
-![](<../../.gitbook/assets/image (128).png>)
+![](<../../../.gitbook/assets/image (128).png>)
 
 14\. **Colores**: personaliza el diseño de tu tarjeta con tus colores corporativos.
 
@@ -185,7 +185,7 @@ Si el primer nivel tiene una duración de 6 estampas, el siguiente nivel empezar
 
 Como mostramos en la imagen, y siguiendo con el ejemplo, en dicho parámetro habría que fijar que el mensaje se envíe en la estampa número 7.
 
-![](<../../.gitbook/assets/image (99).png>)
+![](<../../../.gitbook/assets/image (99).png>)
 
 #### Mensaje de premio
 
@@ -211,7 +211,7 @@ Esta casuística implica que tendremos que enviar dos veces el mensaje de premio
 
 La forma de configurar esta casuística es la siguiente:
 
-![](<../../.gitbook/assets/image (135).png>)
+![](<../../../.gitbook/assets/image (135).png>)
 
 * En "Saldo acumulado en tarjeta" fijaremos el rango que dure el nivel en su totalidad (sumando todos los ciclos). Siguiendo con el ejemplo, puesto que son dos ciclos de 10, el nivel dura desde la estampa 0 hasta la 20.\
 
@@ -249,7 +249,7 @@ Pasos a seguir:
 4. Copia y pega el enlace al que se te ha redirigido para facilitárselo al cliente.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (148).png>)
+![](<../../../.gitbook/assets/image (148).png>)
 
 2\. El cliente deberá acceder al enlace que le has facilitado y añadir el mismo email con el que se registró. Aparecerá en su tarjeta de fidelización.
 

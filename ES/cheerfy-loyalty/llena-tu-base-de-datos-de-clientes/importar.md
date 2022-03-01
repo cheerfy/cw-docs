@@ -10,7 +10,7 @@ description: Descubre aquí cómo importar contactos directamente de otras bases
 
 **2. Explicamos aquí el significado y formato de cada campo:**
 
-![](<../../.gitbook/assets/image (170).png>)
+![](<../../../.gitbook/assets/image (170).png>)
 
 **Campos obligatorios**:
 

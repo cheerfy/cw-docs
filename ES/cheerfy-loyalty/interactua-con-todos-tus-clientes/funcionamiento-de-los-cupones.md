@@ -24,7 +24,7 @@ Además, son descargables en el Apple Wallet o Google Pay sin necesidad de Apps 
 
 4\. Le aparecen todos los cupones activos que tenga disponibles para que seleccione el que desee.
 
-![](<../../.gitbook/assets/image (124).png>)
+![](<../../../.gitbook/assets/image (124).png>)
 
 {% hint style="warning" %}
 Para que tu tienda online sea capaz de identificar a través del email qué cupones tiene activos, deberás configurar correctamente tanto la promoción en tu shop, como el cupón en el mensaje.
@@ -42,7 +42,7 @@ Para que tu tienda online sea capaz de identificar a través del email qué cupo
 
 3. El empleado sella digitalmente el cupón a través de nuestro escáner.
 
-![](<../../.gitbook/assets/image (118).png>)
+![](<../../../.gitbook/assets/image (118).png>)
 
 #### ¿Cómo accedo y utilizo el escáner?
 
@@ -66,11 +66,11 @@ Encuentra aquí la información necesaria sobre nuestra API para la integración
 
 Lo primero es ir al mensaje en el que deseas incrustar el cupón. Una vez dentro, en la fase de "Contenido", haz clic sobre "Cupón".
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../../../.gitbook/assets/image (117).png>)
 
 Una vez has hecho clic en "Cupón", apareces en la página que mostramos a continuación, y sobre la que explicamos todos los parámetros configurables:
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../../../.gitbook/assets/image (144).png>)
 
 #### Parámetros configurables:
 
@@ -112,4 +112,4 @@ IMPORTANTE: en la esquina superior derecha haz clic en "Guardar".
 
 Una vez hayas guardado, volverás a la fase de contenido en la edición del mensaje. Podrás ver el cupón sobre el texto que hayas incluído en el punto número 1.
 
-![](<../../.gitbook/assets/image (114).png>)
+![](<../../../.gitbook/assets/image (114).png>)

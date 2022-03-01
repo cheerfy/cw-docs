@@ -10,24 +10,24 @@ description: >-
 
 1. Selecciona la opción "Orders" en el menú lateral izquierdo.
 2. Selcciona el pedido que deseas cancelar.
-3. Pulsar el botón "Cancel". \(También es posible realizar la cancelación pulsando en "Details" - "Change Status" - "Cancelled"\).
+3. Pulsar el botón "Cancel". (También es posible realizar la cancelación pulsando en "Details" - "Change Status" - "Cancelled").
 4. El pedido irá a la sección de "Cancelled".
 
 {% hint style="danger" %}
-Si un cliente desease cancelar su pedido deberá contactar con el local \(dispone en los T&C’s de vuestro correo para contactaros\) y será el local quien deba cancelarlo.
+Si un cliente desease cancelar su pedido deberá contactar con el local (dispone en los T\&C’s de vuestro correo para contactaros) y será el local quien deba cancelarlo.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](<../../.gitbook/assets/image (74).png>)
 
 ## Devolución de Pedidos
 
 1. Selecciona la opción "Orders" en el menú lateral izquierdo.
 2. Selecciona el pedido cancelado en la cajita "Cancelled" para realizar la devolución en el botón "Details".
 3. Pulsar el botón desplegable "Actions".
-4. Pulsar en la opción "Refund Stripe Payment". \(Esto reembolsará todo el importe\).
+4. Pulsar en la opción "Refund Stripe Payment". (Esto reembolsará todo el importe).
 5. Se puede hacer un reembolso parcial desde la cuenta de Stripe, seleccionando el pedido e introduciendo la cantidad que se desea devolver.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](<../../.gitbook/assets/image (83).png>)
 
 ### Devolución de Pedididos Parciales
 
@@ -39,7 +39,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 2. Haz click en el botón de arriba a la derecha "Reembolsar".
 3. Se nos abrirá una ventana donde podemos seleccionar el importe del reembolso y el motivo.
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](<../../.gitbook/assets/image (86).png>)
 
 ## Retrasar Estimación de Pedidos
 
@@ -47,7 +47,7 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 2. Selecciona el pedido al que deseas retrasar la estimación de preparación, y pulsa el botón "Details".
 3. Pulsa el botón "Set. Est. Ready Time" para añadir los minutos necesarios en la estimación de preparación del pedido.
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](<../../.gitbook/assets/image (77).png>)
 
 ## Gestión del Stock y Disponibilidad de Productos
 
@@ -66,25 +66,25 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 5. "Delete" = Borrar producto.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](<../../.gitbook/assets/image (71).png>)
 
 ## Crear Menús / Categorías / Platos
 
 1. Selecciona la opción "Menus" en el menú lateral izquierdo.
 2. Selecciona la opción "Menus" en el menú superior.
-3. Despliega los menús y categorías. 
+3. Despliega los menús y categorías.&#x20;
 4. Selecciona la acción deseada.
 
 {% hint style="info" %}
 **Posibles acciones**:
 
 1. "Create New Dish" = Crear nuevo plato.
-2.  "Create New Category" = Crear nueva categoría.
-3.  "Create New Menu" = Crear nuevo menú.
-4.  "Re-arrange" = Ordenar.
+2. &#x20;"Create New Category" = Crear nueva categoría.
+3. &#x20;"Create New Menu" = Crear nuevo menú.
+4. &#x20;"Re-arrange" = Ordenar.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](<../../.gitbook/assets/image (82).png>)
 
 ## Editar Menús
 
@@ -98,17 +98,16 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 
 1. "Name" = Nombre.
 2. "Price" = Precio.
-3. "Description" = Descripción. \(Recomendamos usar este campo para añadir alérgenos a cada plato\).
-4. "Subtitle" = Subtítulo. \(Recomendamos usar este campo para añadir las descripciones de los platos\).
+3. "Description" = Descripción. (Recomendamos usar este campo para añadir alérgenos a cada plato).
+4. "Subtitle" = Subtítulo. (Recomendamos usar este campo para añadir las descripciones de los platos).
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](<../../.gitbook/assets/image (76).png>)
 
 ## Invitar Empleados
 
-1. En el panel principal de Cheerfy Shop \(antes de seleccionar restaurante\), selecciona la opción "Staff" del menú de arriba. 
+1. En el panel principal de Cheerfy Shop (antes de seleccionar restaurante), selecciona la opción "Staff" del menú de arriba.&#x20;
 2. Haz click en "Create Staff".
 3. Asigna las credenciales y permisos del empleado en cuestión.
 
-![](../.gitbook/assets/image%20%2872%29.png)
-
+![](<../../.gitbook/assets/image (72).png>)
