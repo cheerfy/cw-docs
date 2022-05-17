@@ -41,7 +41,7 @@ A medida que procedas con dichos escaneos, se irá configurando automáticamente
 
 ### ¿Cómo utilizo el escáner configurado para canjear la tarjeta de fidelización o los cupones?
 
-1\. Con el dispositivo al que hayas conectado tu lector, accede a la siguiente web: [admin.cheerfy.com](http://admin.cheerfy.com)
+1\. Con el dispositivo al que hayas conectado tu lector, accede a la siguiente web: [admin.cheerfy.com](http://admin.cheerfy.com/)
 
 2\. Accede con las credenciales de acceso enviadas desde el email "Cheerfy Ltd".
 
@@ -53,7 +53,7 @@ A medida que procedas con dichos escaneos, se irá configurando automáticamente
 
 5\. Elige la opción "Modo lector de códigos" y dale a "Aceptar".
 
-![](<../.gitbook/assets/image (167) (1).png>)
+<img src="../.gitbook/assets/image (167) (1).png" alt="" data-size="original">
 
 {% hint style="warning" %}
 En caso de que hayas elegido la opción "Introduce el total del ticket para calcular las estampas puntos", cuando vayas a canjear la tarjeta de fidelización, deberás indicar la cantidad del ticket en el dispositivo al que el lector esté conectado.
@@ -69,7 +69,7 @@ Podrás utilizar cualquier dispositivo iOS o Android que contenga una cámara co
 
 2\. Comprueba que la cámara del dispositivo que vas a utilizar funciona correctamente.
 
-3\. Accede a la siguiente web: [admin.cheerfy.com](http://admin.cheerfy.com)
+3\. Accede a la siguiente web: [admin.cheerfy.com](http://admin.cheerfy.com/)
 
 4\. Accede con las credenciales de acceso enviadas desde el email "Cheerfy Ltd".
 
@@ -109,11 +109,11 @@ Importante permitir siempre el acceso a la cámara. De lo contrario, la bloquear
 
 #### 1. He perdido el acceso directo al escáner
 
-Haz login en [admin.cheerfy.com](http://admin.cheerfy.com) y haz clic la rueda de ajustes de la esquina superior derecha: "Loyalty" - "Escáner". Después, repite el proceso de intslación.
+Haz login en [admin.cheerfy.com](http://admin.cheerfy.com/) y haz clic la rueda de ajustes de la esquina superior derecha: "Loyalty" - "Escáner". Después, repite el proceso de intslación.
 
 #### 2. No recuerdo mi contraseña
 
-Desde [admin.cheerfy.com](http://admin.cheerfy.com) , haz clic en el texto "¿Olvidaste tu contraseña?". Se te enviará un correo electónico para estabelecer una nueva.
+Desde [admin.cheerfy.com](http://admin.cheerfy.com/) , haz clic en el texto "¿Olvidaste tu contraseña?". Se te enviará un correo electónico para estabelecer una nueva.
 
 #### 3. La cámara no se abre o no funciona
 

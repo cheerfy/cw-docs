@@ -6,6 +6,18 @@ description: >-
 
 # Forma a tus Empleados
 
+## Introducción
+
+#### Viaje del cliente
+
+![](../.gitbook/assets/Exp1.jpg)
+
+![](../.gitbook/assets/Exp2.jpg)
+
+#### Ecosistema
+
+![](<../.gitbook/assets/Flujo Experiencia.png>)
+
 ## Cancelación de Pedidos
 
 1. Selecciona la opción "Orders" en el menú lateral izquierdo.

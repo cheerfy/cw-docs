@@ -36,7 +36,7 @@ Utiliza el mismo enlace anterior para generar el código QR. Utiliza este códig
 
 2\. Accede a dicho enlace en "Ajustes" - "Loyalty" - "Registro de Clientes" - "Acceder al portal".
 
-3\. Genera un enlace de marca a partir del nuestro. Recomendamos utilizar [Rebrandly](https://www.rebrandly.com). Esto permitirá que si nuestro enlace cambiase, o quisieseis realizar cualquier cambio, como por ejemplo, asociar otra localización, no necesitéis imprimir nuevos QRs.
+3\. Genera un enlace de marca a partir del nuestro. Recomendamos utilizar [Rebrandly](https://www.rebrandly.com/). Esto permitirá que si nuestro enlace cambiase, o quisieseis realizar cualquier cambio, como por ejemplo, asociar otra localización, no necesitéis imprimir nuevos QRs.
 
 4\. Accede a un generador de QRs y crea uno con el nuevo enlace. Nosotros recomendamos este: [https://www.qrcode-monkey.com/es](https://www.qrcode-monkey.com/es)
 

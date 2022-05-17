@@ -66,7 +66,7 @@ Algunas consideraciones para completar el formulario de Stripe:
 {% tab title="Checkout" %}
 **Proceso de configuración:**
 
-1. Abre tu cuenta de Checkout [aquí](https://go.checkout.com/variants/es/connected-payments?creative=504908625344\&keyword=checkout+espa%C3%B1a\&matchtype=e\&network=g\&device=c\&gclid=Cj0KCQjwmIuDBhDXARIsAFITC\_5t5B8geww2r3MAdntB9TWgkVfZHYQwaQl1GZPVP3YOkfm-o458adUaAsayEALw\_wcB).
+1. Abre tu cuenta de Checkout [aquí](https://go.checkout.com/variants/es/connected-payments?creative=504908625344\&keyword=checkout%20espa%C3%B1a\&matchtype=e\&network=g\&device=c\&utm\_campaign=gl\_always\_on\_ggl\&utm\_source=google\&utm\_medium=paid\_search\&utm\_term=checkout%20espa%C3%B1a\&gclid=Cj0KCQjwmIuDBhDXARIsAFITC\_5t5B8geww2r3MAdntB9TWgkVfZHYQwaQl1GZPVP3YOkfm-o458adUaAsayEALw\_wcB).
 2. Te pedirán una serie de datos de tu empresa y se pondrán en contacto contigo.
 3. Añade en Cheerfy Shop tus Claves de API de Checkout: Clave Secreta y Clave Publicable.
 4. Para ello, ve a "Settings" - "Payments" - "Add Payment Method" - "Checkout".
