@@ -10,7 +10,7 @@ description: Find out how to import contacts directly from other databases.
 
 **2. Find the meaning and format of each field:**
 
-![](<../../../.gitbook/assets/image (170).png>)
+![](<../../../.gitbook/assets/image (170) (1).png>)
 
 **Required fields**:
 
