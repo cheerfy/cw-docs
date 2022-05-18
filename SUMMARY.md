@@ -22,7 +22,7 @@
     * [Integraciones con otras plataformas](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/integraciones-con-otras-plataformas.md)
     * [Importar](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/importar.md)
     * [Configura el proceso de registro](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/configura-el-proceso-de-registro.md)
-    * [Maximiza el número de registros](ES/cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/maximiza-el-numero-de-registros.md)
+    * [Maximiza el número de registros](cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/maximiza-el-numero-de-registros.md)
   * [Interactúa con todos tus clientes](cheerfy-loyalty/interactua-con-todos-tus-clientes/README.md)
     * [Tipos de mensajes](cheerfy-loyalty/interactua-con-todos-tus-clientes/tipos-de-mensajes.md)
     * [Cómo configurar un mensaje](cheerfy-loyalty/interactua-con-todos-tus-clientes/como-configurar-un-mensaje.md)

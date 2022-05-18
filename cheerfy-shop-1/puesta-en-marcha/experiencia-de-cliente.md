@@ -52,13 +52,10 @@ Añade un código QR con un enlace a tu tienda online.
 
 **¿Cómo generar un código QR?**
 
-
-
-Genera un enlace de marca a partir del nuestro. Recomendamos utilizar [Rebrandly](https://www.rebrandly.com/). Esto permitirá que si nuestro enlace cambiase, o quisieseis realizar cualquier cambio, como por ejemplo, asociar otra localización, no necesitéis imprimir nuevos QRs.
-
-Accede a un generador de QRs y crea uno con el nuevo enlace. Nosotros recomendamos este: [https://www.qrcode-monkey.com/es](https://www.qrcode-monkey.com/es)
-
-Si utilizas el generador recomendado, incluye el enlace de registro de la localización en "Tu URL" y configura el diseño como desees.
+1. Copia cada enlace generado.
+2. Genera un enlace de marca a partir del nuestro. Recomendamos utilizar [Rebrandly](https://www.rebrandly.com/). Esto permitirá que si nuestro enlace cambiase, o quisieseis realizar cualquier cambio, como por ejemplo, asociar otra mesa, no necesitéis imprimir nuevos QRs.
+3. Accede a un generador de QRs y crea uno con el nuevo enlace. Nosotros recomendamos este: [https://www.qrcode-monkey.com/es](https://www.qrcode-monkey.com/es)
+4. Si utilizas el generador recomendado, incluye el enlace en "Tu URL" y configura el diseño como desees.
 
 **Experiencia de cliente**
 

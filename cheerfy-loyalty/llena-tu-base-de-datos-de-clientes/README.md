@@ -18,7 +18,7 @@ description: >-
 [configura-el-proceso-de-registro.md](configura-el-proceso-de-registro.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../ES/cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/maximiza-el-numero-de-registros.md" %}
-[maximiza-el-numero-de-registros.md](../../ES/cheerfy-loyalty/llena-tu-base-de-datos-de-clientes/maximiza-el-numero-de-registros.md)
+{% content-ref url="maximiza-el-numero-de-registros.md" %}
+[maximiza-el-numero-de-registros.md](maximiza-el-numero-de-registros.md)
 {% endcontent-ref %}
 
