@@ -31,7 +31,7 @@ En caso de no saber cuál elegir, te sugerimos el modelo Tera HW0002.
 
 Para mostrar una configuración, ejemplificamos con dicho modelo (Tera HW0002):
 
-![](<../.gitbook/assets/image (167) (1).png>)
+![](<../.gitbook/assets/image (167) (1) (1).png>)
 
 Es tan simple como ir escaneando los distintos códigos de barras en el orden indicado.&#x20;
 
@@ -53,7 +53,7 @@ A medida que procedas con dichos escaneos, se irá configurando automáticamente
 
 5\. Elige la opción "Modo lector de códigos" y dale a "Aceptar".
 
-<img src="../.gitbook/assets/image (167) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (167) (1) (1) (1).png" alt="" data-size="original">
 
 {% hint style="warning" %}
 En caso de que hayas elegido la opción "Introduce el total del ticket para calcular las estampas puntos", cuando vayas a canjear la tarjeta de fidelización, deberás indicar la cantidad del ticket en el dispositivo al que el lector esté conectado.

@@ -8,56 +8,141 @@ description: >-
 
 ## Introducción
 
-#### Viaje del cliente
+### Viaje del cliente
 
 ![](../.gitbook/assets/Exp1.jpg)
 
 ![](../.gitbook/assets/Exp2.jpg)
 
-#### Ecosistema
+### Ecosistema
 
-![](<../.gitbook/assets/Exp flujo (2).png>)
+![](<../.gitbook/assets/Exp flujo (1).png>)
 
-## Servicios
+## Servicios y horarios
 
-* Recogidas - pedidos de Take Away o para recoger en tienda
+* Recogidas - pedidos de Take Away o para recoger en tienda.
 * Entregas - pedidos a domicilio.
 * Cenas - pedidos producidos en el restaurante.
 
+### 3 tipos de servicio
+
 ![](<../.gitbook/assets/image (170).png>)
 
-#### Parámetros clave
+#### 1. Recogidas
 
-* General.
-  * **Activado**: haz clic para activar el servicio.
+Pedidos de Take Away o para recoger en tienda.
 
-<img src="../.gitbook/assets/image (169).png" alt="" data-size="original">
+**Parámetros clave**:
 
-* Tiempo de pedido.
-  * **Habilitar pedidos inmediatos**: haz clic para activar pedidos inmediatos.
-  * **Compensación del Primer Pedido**: período de tiempo desde que su tienda abre hasta que acepta el primer pedido. Por ejemplo, si aquí añades 30 minutos y tu tienda abre a las 9:00am, el primer pedido se podrá realizar o programar a las 9:30am.
-  * **Compensación del Último Pedido**: período de tiempo desde que tu tienda cierra hasta que se acepta el último pedido. Por ejemplo, si aquí añades 30 minutos y tu tienda cierra a las 9:00pm, el último pedido se podrá realizar o programar a las 8:30pm.
-  * **Habilitar pedidos posteriores**: haz clic para permitir a tus clientes realizar pedidos para una fecha y hora posteriores.
-  * **Días máximos de adelanto**: número de días de anticipación que los clientes pueden realizar pedidos.
-  * **Intervalo de tiempo**: cantidad de minutos entre cada intervalo de tiempo de pedido disponible.
-  * **Compensación de pedidos**: cantidad mínima de tiempo a partir de ahora que se debe realizar un pedido para un momento posterior.
 
-![](<../.gitbook/assets/image (166).png>)
 
-* Horas disponibles.
-  * **Horas de servicio personalizadas**: si deseas que un determinado servicio tenga un horario especial o distinto al resto, ajusta aquí el horario concreto de dicho servicio.
+#### 2. Entregas
 
-![](<../.gitbook/assets/image (172).png>)
+Pedidos a domicilio.
+
+**Parámetros clave**:
+
+
+
+#### 3. Cenas
+
+Pedidos realizados en el restaurante.
+
+**Parámetros clave**:
+
+
 
 {% hint style="danger" %}
 Acuérdate de darle a guardar cada vez que edites.
 {% endhint %}
 
-#### Experiencia de cliente
+### Configuración de servicios disponibles
 
-{% content-ref url="puesta-en-marcha/experiencia-de-cliente.md" %}
-[experiencia-de-cliente.md](puesta-en-marcha/experiencia-de-cliente.md)
-{% endcontent-ref %}
+#### Delivery y Take Away:
+
+Landing Page
+
+Pausar / reactivar servicios
+
+#### Sala:
+
+
+
+### Horario
+
+#### Localización
+
+#### Servicios
+
+#### Menús
+
+## Menú
+
+### Integrado con agregador / TPV
+
+#### Sincronización TPV -> Agregador -> Cheerfy
+
+#### Disponibilidad de productos
+
+#### Ordenación de grupos odificadores: obligatorio y opcional, luego alfabético.
+
+#### Filtros del menú: horarios, servicio
+
+#### Etiquetas
+
+### Manual
+
+## Promociones
+
+### Códigos de promoción
+
+### Cupones individuales
+
+## Recepción de pedidos
+
+### Integración: Inmediatos Vs programados
+
+### Cheerfy
+
+### Impresoras
+
+### Email
+
+## Pagos
+
+### Stripe Connect
+
+### Stripe Standard
+
+### Fuera del local
+
+## Transportistas
+
+### Integración
+
+### Matriz de priorización
+
+### Cómo cancelar
+
+## Crear empleados
+
+1. En el panel principal de Cheerfy Shop (antes de seleccionar restaurante), selecciona la opción "Staff" del menú de arriba.&#x20;
+2. Haz click en "Create Staff".
+3. Asigna las credenciales y permisos del empleado en cuestión.
+
+![](<../.gitbook/assets/image (72).png>)
+
+## Varios
+
+### Datos clave
+
+### Recibos
+
+### Página de confirmación
+
+### IVA
+
+### Propina
 
 ## Cancelación de Pedidos
 
@@ -157,10 +242,3 @@ Como mencionábamos en el paso anterior, si hiciese falta reembolsar un pedido p
 
 ![](<../.gitbook/assets/image (76).png>)
 
-## Invitar Empleados
-
-1. En el panel principal de Cheerfy Shop (antes de seleccionar restaurante), selecciona la opción "Staff" del menú de arriba.&#x20;
-2. Haz click en "Create Staff".
-3. Asigna las credenciales y permisos del empleado en cuestión.
-
-![](<../.gitbook/assets/image (72).png>)
