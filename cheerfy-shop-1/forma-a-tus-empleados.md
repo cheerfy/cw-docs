@@ -20,7 +20,7 @@ description: >-
 
 ## Servicios
 
-* Recogidas - pedidos de Take Away o para recoger en tienda.
+* Recogidas - pedidos de Take Away o para recoger en tienda
 * Entregas - pedidos a domicilio.
 * Cenas - pedidos producidos en el restaurante.
 
