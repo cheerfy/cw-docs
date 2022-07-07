@@ -80,13 +80,27 @@ Pausar / reactivar servicios
 
 ### Integrado con agregador / TPV
 
-#### Sincronización TPV -> Agregador -> Cheerfy
+{% hint style="info" %}
+Tus menús de Cheerfy Shop se actualizan de forma centralizada desde el agregador / TPV. Los cambios que realices en ellos, una vez publicados, se reflejarán automáticamente en Cheerfy Shop.
+{% endhint %}
 
 #### Disponibilidad de productos
 
-#### Ordenación de grupos odificadores: obligatorio y opcional, luego alfabético.
+#### Ordenación de grupos modificadores
+
+{% hint style="success" %}
+Los modificadores de los productos de tu menú se ordenarán incluyendo **primero los obligatorios** (a su vez ordenados alfabéticamente) y **después los opcionales** (a su vez ordenados alfabéticamente).
+{% endhint %}
 
 #### Filtros del menú: horarios, servicio
+
+{% hint style="info" %}
+Podrás filtrar tus menús en base a un horario específico de cada cual, o del tipo de servicio al que estén destinados: a domicilio, a recoger, en sala.
+{% endhint %}
+
+* **Filtrado en base al horario**
+
+****
 
 #### Etiquetas
 
